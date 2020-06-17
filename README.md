@@ -28,7 +28,7 @@ By deciding to leave for a clearer path to a championship, then returning four y
      Rapid API – Travel, Finance, Sports, Entertainment
      McKinsey Audit Company
      Zip Code Data
-     Rough Breakdown of Tasks:
+### Rough Breakdown of Tasks:
      GitHub Gatekeeper = Zachary
      Data Retrieval = All
      Data Cleanup = To be determined
