@@ -21,15 +21,15 @@ By deciding to leave for a clearer path to a championship, then returning four y
            What was the impact to Miami when he played for the Heat?         
            
 ### Datasets to Be Used (but not limited to):
-Census – Small Business Association API
-US Bureau of Labor and Statistics
-Basketball Reference.Com – Team Attendance Figures
-Business Statistics
-Rapid API – Travel, Finance, Sports, Entertainment
-McKinsey Audit Company
-Zip Code Data
-Rough Breakdown of Tasks:
-GitHub Gatekeeper = Zachary
-Data Retrieval = All
-Data Cleanup = To be determined
-Team Scribe = Rick
+ Census – Small Business Association API
+ US Bureau of Labor and Statistics
+ Basketball Reference.Com – Team Attendance Figures
+ Business Statistics
+ Rapid API – Travel, Finance, Sports, Entertainment
+ McKinsey Audit Company
+ Zip Code Data
+ Rough Breakdown of Tasks:
+ GitHub Gatekeeper = Zachary
+ Data Retrieval = All
+ Data Cleanup = To be determined
+ Team Scribe = Rick
