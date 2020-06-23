@@ -1,3 +1,1416 @@
 Zip Code,City Name,City Type Zip,County,State,Lat,Lng,Zip Code Status,Zip Check
-44149,Strongsville,postal_code,None,OH,41.3029994,-81.8552196,OK,44149
+43001,Alexandria,postal_code,Licking County,OH,40.0838419,-82.6159271,OK,43001
+43002,Amlin,postal_code,Franklin County,OH,40.0764632,-83.17846569999999,OK,43002
+43003,Ashley,postal_code,None,OH,40.4104355,-82.9609096,OK,43003
+43004,Blacklick,postal_code,Franklin County,OH,40.0144647,-82.8101975,OK,43004
+43005,Bladensburg,postal_code,Knox County,OH,40.2843495,-82.2831092,OK,43005
+43006,None,postal_code,None,OH,40.4369543,-82.11695499999999,OK,43006
+43007,Broadway,postal_code,Union County,OH,40.34181969999999,-83.4141536,OK,43007
+43008,Buckeye Lake,postal_code,Licking County,OH,39.9380575,-82.4915194,OK,43008
+43009,Cable,postal_code,Champaign County,OH,40.1641815,-83.624201,OK,43009
+43010,Catawba,postal_code,Clark County,OH,39.9997238,-83.62120759999999,OK,43010
+43011,Centerburg,postal_code,None,OH,40.3009806,-82.669947,OK,43011
+43013,Hartford,postal_code,Licking County,OH,40.2318815,-82.7023383,OK,43013
+43014,Danville,postal_code,Knox County,OH,40.4754422,-82.2365981,OK,43014
+43015,Delaware,postal_code,Delaware County,OH,40.298702,-83.06772440000002,OK,43015
+43016,Dublin,postal_code,None,OH,40.0761455,-83.15417959999999,OK,43016
+43017,Dublin,postal_code,None,OH,40.115674,-83.13273319999999,OK,43017
+43018,Etna,postal_code,Licking County,OH,39.9562235,-82.68546979999999,OK,43018
+43019,Fredericktown,postal_code,None,OH,40.4982681,-82.5834947,OK,43019
+43021,Galena,postal_code,Delaware County,OH,40.2006167,-82.85329279999999,OK,43021
+43022,Gambier,postal_code,Knox County,OH,40.3760148,-82.3966872,OK,43022
+43023,Granville,postal_code,Licking County,OH,40.089177,-82.5402275,OK,43023
+43025,Hebron,postal_code,Licking County,OH,39.966745,-82.5402275,OK,43025
+43026,Hilliard,postal_code,Franklin County,OH,40.01616,-83.1756188,OK,43026
+43027,Homer,postal_code,Licking County,OH,40.2524337,-82.5194293,OK,43027
+43028,Howard,postal_code,Knox County,OH,40.4081907,-82.2909146,OK,43028
+43029,Irwin,postal_code,None,OH,40.0934688,-83.4536844,OK,43029
+43030,Jacksontown,postal_code,Licking County,OH,39.9595844,-82.4153441,OK,43030
+43031,Johnstown,postal_code,None,OH,40.1789586,-82.669947,OK,43031
+43032,Kilbourne,postal_code,Delaware County,OH,40.3288126,-82.9592294,OK,43032
+43033,Kirkersville,postal_code,Licking County,OH,39.9593226,-82.5936315,OK,43033
+43035,Lewis Center,postal_code,Delaware County,OH,40.18946760000001,-83.0039075,OK,43035
+43036,Magnetic Springs,postal_code,Union County,OH,40.3508704,-83.2599674,OK,43036
+43037,Martinsburg,postal_code,Knox County,OH,40.2659548,-82.3261977,OK,43037
+43040,Marysville,postal_code,Union County,OH,40.2612116,-83.357567,OK,43040
+43041,Marysville,postal_code,Union County,OH,40.23999999999999,-83.36999999999999,OK,43041
+43044,Mechanicsburg,postal_code,None,OH,40.0694177,-83.57096399999999,OK,43044
+43045,Milford Center,postal_code,None,OH,40.1438648,-83.4430118,OK,43045
+43046,Millersport,postal_code,None,OH,39.89590829999999,-82.5510469,OK,43046
+43047,Mingo,postal_code,Champaign County,OH,40.202252,-83.62154020000001,OK,43047
+43048,Mount Liberty,postal_code,Knox County,OH,40.34745849999999,-82.6299427,OK,43048
+43050,Mount Vernon,postal_code,None,OH,40.3521894,-82.5185837,OK,43050
+43054,New Albany,postal_code,Franklin County,OH,40.0756871,-82.8101975,OK,43054
+43055,Newark,postal_code,Licking County,OH,40.1157418,-82.32348429999999,OK,43055
+43056,Heath,postal_code,None,OH,39.9934035,-82.32348429999999,OK,43056
+43058,Newark,postal_code,Licking County,OH,40.12,-82.35,OK,43058
+43060,North Lewisburg,postal_code,None,OH,40.23255470000001,-83.57096399999999,OK,43060
+43061,Ostrander,postal_code,None,OH,40.2512497,-83.1863358,OK,43061
+43062,Pataskala,postal_code,None,OH,40.015874,-82.669947,OK,43062
+43064,Plain City,postal_code,None,OH,40.1075508,-83.2673692,OK,43064
+43065,Shawnee Hills,postal_code,None,OH,40.1742648,-83.0898194,OK,43065
+43066,Radnor,postal_code,Delaware County,OH,40.4112712,-83.1434573,OK,43066
+43067,Raymond,postal_code,Union County,OH,40.3211489,-83.517682,OK,43067
+43068,Reynoldsburg,postal_code,None,OH,39.9518394,-82.7886395,OK,43068
+43069,Reynoldsburg,postal_code,Franklin County,OH,39.95,-82.81,OK,43069
+43070,Rosewood,postal_code,Champaign County,OH,40.2181545,-83.95954239999999,OK,43070
+43071,Saint LOUISVL,postal_code,Licking County,OH,40.1891493,-82.3560389,OK,43071
+43072,Saint Paris,postal_code,Champaign County,OH,40.1308345,-83.9532571,OK,43072
+43073,Pataskala,postal_code,Licking County,OH,39.9973918,-82.7520961,OK,43073
+43074,Sunbury,postal_code,None,OH,40.2928127,-82.8640623,OK,43074
+43076,Thornville,postal_code,None,OH,39.8765387,-82.4102628,OK,43076
+43077,UNIONVLLE CTR,postal_code,Union County,OH,40.1386702,-83.34086529999999,OK,43077
+43078,Urbana,postal_code,Champaign County,OH,40.10258169999999,-83.804868,OK,43078
+43080,Utica,postal_code,None,OH,40.2435658,-82.4102628,OK,43080
+43081,Westerville,postal_code,Franklin County,OH,40.1014036,-82.89636039999999,OK,43081
+43082,Westerville,postal_code,Delaware County,OH,40.16254470000001,-82.89636039999999,OK,43082
+43083,Westville,postal_code,Champaign County,OH,40.1085664,-83.82053719999999,OK,43083
+43084,Woodstock,postal_code,None,OH,40.14866689999999,-83.528342,OK,43084
+43085,Columbus,postal_code,Franklin County,OH,40.103832,-83.02002449999999,OK,43085
+43086,Westerville,postal_code,Franklin County,OH,40.12,-82.92999999999999,OK,43086
+43093,Newark,postal_code,Licking County,OH,40.0583202,-82.4541778,OK,43093
+43101,Adelphi,postal_code,Ross County,OH,39.4664349,-82.7475254,OK,43101
+43102,Amanda,postal_code,None,OH,39.6116536,-82.7562895,OK,43102
+43103,Ashville,postal_code,None,OH,39.704442,-82.92864279999999,OK,43103
+43105,Etna,postal_code,Fairfield County,OH,39.8496042,-82.6267345,OK,43105
+43106,Bloomingburg,postal_code,None,OH,39.6415975,-83.4323375,OK,43106
+43107,Hideaway Hills,postal_code,None,OH,39.6716699,-82.4102628,OK,43107
+43109,Brice,postal_code,Franklin County,OH,39.9178419,-82.8327587,OK,43109
+43110,CANAL WNCHSTR,postal_code,None,OH,39.8290849,-82.7886395,OK,43110
+43111,Carbon Hill,postal_code,Hocking County,OH,39.49813049999999,-82.2427108,OK,43111
+43112,Carroll,postal_code,Fairfield County,OH,39.8031988,-82.7023383,OK,43112
+43113,Circleville,postal_code,None,OH,39.5837779,-82.9716617,OK,43113
+43115,Clarksburg,postal_code,None,OH,39.48145359999999,-83.15417959999999,OK,43115
+43116,Commercial Point,postal_code,Pickaway County,OH,39.7703385,-83.064326,OK,43116
+43117,Derby,postal_code,Pickaway County,OH,39.76898550000001,-83.20659289999999,OK,43117
+43119,Galloway,postal_code,None,OH,39.9247969,-83.1863358,OK,43119
+43123,Grove City,postal_code,Franklin County,OH,39.8762258,-83.05761559999999,OK,43123
+43125,Groveport,postal_code,None,OH,39.8344168,-82.8748301,OK,43125
+43126,Harrisburg,postal_code,None,OH,39.8106225,-83.17092960000001,OK,43126
+43127,Haydenville,postal_code,Hocking County,OH,39.478243,-82.3207707,OK,43127
+43128,Jeffersonville,postal_code,None,OH,39.6619854,-83.6135572,OK,43128
+43130,Lancaster,postal_code,Fairfield County,OH,39.7047822,-82.605118,OK,43130
+43135,Laurelville,postal_code,None,OH,39.4855212,-82.713132,OK,43135
+43136,Lithopolis,postal_code,None,OH,39.8075474,-82.8128918,OK,43136
+43137,Lockbourne,postal_code,None,OH,39.8000052,-82.98241209999999,OK,43137
+43138,Logan,postal_code,None,OH,39.5292702,-82.4319405,OK,43138
+43140,London,postal_code,None,OH,39.89867,-83.4430118,OK,43140
+43142,Milledgeville,postal_code,Fayette County,OH,39.5913207,-83.5881046,OK,43142
+43143,Mount Sterling,postal_code,None,OH,39.727338,-83.3148018,OK,43143
+43144,Murray City,postal_code,Hocking County,OH,39.5109237,-82.16524439999999,OK,43144
+43145,New Holland,postal_code,None,OH,39.5604184,-83.2720082,OK,43145
+43146,Orient,postal_code,None,OH,39.7583793,-83.1434573,OK,43146
+43147,Etna,postal_code,None,OH,39.898703,-82.7562895,OK,43147
+43148,Pleasantville,postal_code,None,OH,39.8112603,-82.50775929999999,OK,43148
+43149,Rockbridge,postal_code,Hocking County,OH,39.55962239999999,-82.5834947,OK,43149
+43150,Rushville,postal_code,None,OH,39.7646554,-82.42110249999999,OK,43150
+43151,Midway,postal_code,Madison County,OH,39.7333625,-83.4770243,OK,43151
+43152,S BLOOMINGVIL,postal_code,None,OH,39.3591302,-82.669947,OK,43152
+43153,South Solon,postal_code,None,OH,39.7441639,-83.6135572,OK,43153
+43154,Stoutsville,postal_code,None,OH,39.6050434,-82.8287945,OK,43154
+43155,Sugar Grove,postal_code,None,OH,39.6264608,-82.5485123,OK,43155
+43156,Laurelville,postal_code,Pickaway County,OH,39.555386,-82.7761731,OK,43156
+43157,Thurston,postal_code,Fairfield County,OH,39.84339480000001,-82.5496946,OK,43157
+43158,Union Furnace,postal_code,Hocking County,OH,39.4659095,-82.35807299999999,OK,43158
+43160,WSHNGTN CT HS,postal_code,None,OH,39.5096149,-83.46435509999999,OK,43160
+43162,West Jefferson,postal_code,Madison County,OH,39.9322799,-83.3148018,OK,43162
+43164,Williamsport,postal_code,None,OH,39.5915094,-83.1005505,OK,43164
+43194,Lockbourne,postal_code,Franklin County,OH,39.8092642,-82.97253979999999,OK,43194
+43195,Groveport,postal_code,Franklin County,OH,39.86,-82.89,OK,43195
+43199,Groveport,postal_code,Franklin County,OH,39.83395489999999,-82.92998759999999,OK,43199
+43201,Columbus,postal_code,Franklin County,OH,39.9929821,-83.00122100000002,OK,43201
+43202,Columbus,postal_code,Franklin County,OH,40.0215545,-83.0092803,OK,43202
+43203,Columbus,postal_code,Franklin County,OH,39.9705946,-82.9689738,OK,43203
+43204,Columbus,postal_code,Franklin County,OH,39.9647732,-83.0844532,OK,43204
+43205,Columbus,postal_code,Franklin County,OH,39.9576567,-82.9662859,OK,43205
+43206,Columbus,postal_code,Franklin County,OH,39.9402572,-82.9743495,OK,43206
+43207,Obetz,postal_code,Franklin County,OH,39.9119721,-82.9716617,OK,43207
+43209,Bexley,postal_code,Franklin County,OH,39.9556925,-82.9340217,OK,43209
+43210,Columbus,postal_code,Franklin County,OH,39.9990626,-83.01733860000002,OK,43210
+43211,Columbus,postal_code,Franklin County,OH,40.0046112,-82.98241209999999,OK,43211
+43212,GRANDVIEW,postal_code,Franklin County,OH,39.98263960000001,-83.04150779999999,OK,43212
+43213,Whitehall,postal_code,Franklin County,OH,39.9721714,-82.8694464,OK,43213
+43214,Columbus,postal_code,Franklin County,OH,40.0480476,-83.025396,OK,43214
+43215,Columbus,postal_code,Franklin County,OH,39.9602601,-83.0092803,OK,43215
+43216,Columbus,postal_code,Franklin County,OH,39.9705786,-83.03210969999999,OK,43216
+43217,Columbus,postal_code,Franklin County,OH,39.8124347,-82.9340217,OK,43217
+43218,Columbus,postal_code,Franklin County,OH,40.0151339,-82.9246084,OK,43218
+43219,Columbus,postal_code,Franklin County,OH,40.0415191,-82.9178838,OK,43219
+43220,UPPER ARLNGTN,postal_code,Franklin County,OH,40.05062789999999,-83.0683519,OK,43220
+43221,UPPER ARLNGTN,postal_code,Franklin County,OH,40.0097883,-83.0683519,OK,43221
+43222,Columbus,postal_code,Franklin County,OH,39.9591613,-83.0334524,OK,43222
+43223,Columbus,postal_code,Franklin County,OH,39.93153,-83.04150779999999,OK,43223
+43224,Columbus,postal_code,Franklin County,OH,40.0441439,-82.9609096,OK,43224
+43226,Columbus,postal_code,Franklin County,OH,40.0928335,-82.9934529,OK,43226
+43227,Columbus,postal_code,Franklin County,OH,39.9428367,-82.8909785,OK,43227
+43228,Columbus,postal_code,Franklin County,OH,39.9571056,-83.1273705,OK,43228
+43229,Columbus,postal_code,Franklin County,OH,40.0862602,-82.98241209999999,OK,43229
+43230,Gahanna,postal_code,Franklin County,OH,40.0388765,-82.8748301,OK,43230
+43231,Columbus,postal_code,Franklin County,OH,40.078872,-82.9447782,OK,43231
+43232,Columbus,postal_code,Franklin County,OH,39.9162835,-82.8748301,OK,43232
+43234,Columbus,postal_code,Franklin County,OH,40.1,-83.06,OK,43234
+43235,Columbus,postal_code,None,OH,40.1296424,-83.025396,OK,43235
+43236,Columbus,postal_code,Franklin County,OH,39.9601945,-83.0000306,OK,43236
+43240,Columbus,postal_code,Delaware County,OH,40.1420033,-82.97703709999999,OK,43240
+43251,Columbus,postal_code,Franklin County,OH,39.9606899,-83.02170319999999,OK,43251
+43260,Columbus,postal_code,Franklin County,OH,39.96,-83.0,OK,43260
+43266,Columbus,postal_code,Franklin County,OH,39.96,-83.0,OK,43266
+43268,Columbus,postal_code,Franklin County,OH,39.96,-83.0,OK,43268
+43270,Columbus,postal_code,Franklin County,OH,39.96,-83.0,OK,43270
+43271,Columbus,postal_code,Franklin County,OH,39.96,-83.0,OK,43271
+43272,Columbus,postal_code,Franklin County,OH,39.96,-83.0,OK,43272
+43279,Columbus,postal_code,Franklin County,OH,39.96,-83.0,OK,43279
+43287,Columbus,postal_code,Franklin County,OH,39.96,-83.0,OK,43287
+43291,Columbus,postal_code,Franklin County,OH,39.969724,-83.12468899999999,OK,43291
+43301,Marion,postal_code,Marion County,OH,40.59,-83.13,OK,43301
+43302,Marion,postal_code,None,OH,40.5518645,-83.12200740000002,OK,43302
+43310,Belle Center,postal_code,None,OH,40.5286085,-83.7836403,OK,43310
+43311,Bellefontaine,postal_code,Logan County,OH,40.363952,-83.7411631,OK,43311
+43314,Caledonia,postal_code,None,OH,40.6344769,-82.98241209999999,OK,43314
+43315,Cardington,postal_code,None,OH,40.4767797,-82.8855961,OK,43315
+43316,Carey,postal_code,None,OH,40.95147610000001,-83.4003037,OK,43316
+43317,Chesterville,postal_code,Morrow County,OH,40.479041,-82.6837827,OK,43317
+43318,De Graff,postal_code,None,OH,40.3216216,-83.9003022,OK,43318
+43319,East Liberty,postal_code,None,OH,40.3031943,-83.5603112,OK,43319
+43320,Edison,postal_code,Morrow County,OH,40.588777,-82.89636039999999,OK,43320
+43321,Fulton,postal_code,Morrow County,OH,40.4625582,-82.8297285,OK,43321
+43322,Green Camp,postal_code,Marion County,OH,40.5328201,-83.2064255,OK,43322
+43323,Harpster,postal_code,Wyandot County,OH,40.7306409,-83.2398943,OK,43323
+43324,Huntsville,postal_code,Logan County,OH,40.4390408,-83.81547909999999,OK,43324
+43325,Iberia,postal_code,Morrow County,OH,40.6642617,-82.8506002,OK,43325
+43326,Kenton,postal_code,Hardin County,OH,40.66220149999999,-83.63484299999999,OK,43326
+43330,Kirby,postal_code,Wyandot County,OH,40.8147883,-83.4196594,OK,43330
+43331,Lakeview,postal_code,None,OH,40.5055315,-83.9214896,OK,43331
+43332,La Rue,postal_code,None,OH,40.57761929999999,-83.38962219999999,OK,43332
+43333,Lewistown,postal_code,Logan County,OH,40.44577460000001,-83.94266979999999,OK,43333
+43334,Marengo,postal_code,None,OH,40.3903355,-82.79941939999999,OK,43334
+43335,Martel,postal_code,Marion County,OH,40.6677494,-82.9096452,OK,43335
+43336,Middleburg,postal_code,Logan County,OH,40.2923753,-83.5815318,OK,43336
+43337,Morral,postal_code,None,OH,40.6902602,-83.2398943,OK,43337
+43338,Mount Gilead,postal_code,Morrow County,OH,40.5497252,-82.7562895,OK,43338
+43340,Mount Victory,postal_code,None,OH,40.5527098,-83.4856913,OK,43340
+43341,NEW BLOOMNGTN,postal_code,Marion County,OH,40.5714482,-83.2827093,OK,43341
+43342,Prospect,postal_code,None,OH,40.4638831,-83.1756188,OK,43342
+43343,Quincy,postal_code,None,OH,40.3057102,-83.985008,OK,43343
+43344,Richwood,postal_code,None,OH,40.4237793,-83.357567,OK,43344
+43345,Ridgeway,postal_code,None,OH,40.5288755,-83.6029116,OK,43345
+43346,Roundhead,postal_code,Hardin County,OH,40.5621293,-83.8386209,OK,43346
+43347,Rushsylvania,postal_code,None,OH,40.4715716,-83.666758,OK,43347
+43348,Russells Point,postal_code,Logan County,OH,40.4579303,-83.8844068,OK,43348
+43349,Shauck,postal_code,Morrow County,OH,40.6216775,-82.66296659999999,OK,43349
+43350,Sparta,postal_code,Morrow County,OH,40.3951433,-82.6993023,OK,43350
+43351,UPPER SANDSKY,postal_code,Wyandot County,OH,40.8043646,-83.2934086,OK,43351
+43356,Waldo,postal_code,None,OH,40.4562037,-83.0468775,OK,43356
+43357,West Liberty,postal_code,None,OH,40.2418854,-83.7411631,OK,43357
+43358,West Mansfield,postal_code,None,OH,40.4334694,-83.528342,OK,43358
+43359,Wharton,postal_code,Wyandot County,OH,40.8758358,-83.4856913,OK,43359
+43360,Zanesfield,postal_code,Logan County,OH,40.3474002,-83.624201,OK,43360
+43402,Bowling Green,postal_code,Wood County,OH,41.4065709,-83.6561215,OK,43402
+43403,Bowling Green,postal_code,Wood County,OH,41.3780983,-83.6375032,OK,43403
+43406,Bradner,postal_code,None,OH,41.3453205,-83.4536844,OK,43406
+43407,Burgoon,postal_code,None,OH,41.2730101,-83.2398943,OK,43407
+43408,Clay Center,postal_code,Ottawa County,OH,41.5636789,-83.3622427,OK,43408
+43410,Clyde,postal_code,None,OH,41.2869091,-82.9716617,OK,43410
+43412,Curtice,postal_code,None,OH,41.6354646,-83.3041061,OK,43412
+43413,Cygnet,postal_code,Wood County,OH,41.2349349,-83.624201,OK,43413
+43414,Dunbridge,postal_code,Wood County,OH,41.4575193,-83.60868549999999,OK,43414
+43416,Elmore,postal_code,None,OH,41.473828,-83.2613054,OK,43416
+43420,Fremont,postal_code,Sandusky County,OH,41.3559092,-83.12200740000002,OK,43420
+43430,Genoa,postal_code,None,OH,41.519876,-83.3682539,OK,43430
+43431,Gibsonburg,postal_code,None,OH,41.389715,-83.357567,OK,43431
+43432,Elliston,postal_code,Ottawa County,OH,41.5521944,-83.2398943,OK,43432
+43433,Gypsum,postal_code,Ottawa County,OH,41.505545,-82.871527,OK,43433
+43434,Harbor View,postal_code,Lucas County,OH,41.69352,-83.44467949999999,OK,43434
+43435,Millersville,postal_code,Sandusky County,OH,41.344821,-83.2720082,OK,43435
+43436,IS Saint GEORGE,postal_code,Ottawa County,OH,41.712755,-82.81828,OK,43436
+43437,Jerry City,postal_code,Wood County,OH,41.2575906,-83.60424239999999,OK,43437
+43438,Kelleys Island,postal_code,Erie County,OH,41.6041026,-82.70773539999999,OK,43438
+43439,Lacarne,postal_code,Ottawa County,OH,41.5158097,-83.04185149999999,OK,43439
+43440,LKSID MARBLHD,postal_code,Ottawa County,OH,41.5401268,-82.7433192,OK,43440
+43441,Lemoyne,postal_code,Wood County,OH,41.4951109,-83.4707257,OK,43441
+43442,Lindsey,postal_code,None,OH,41.4314542,-83.2184763,OK,43442
+43443,Luckey,postal_code,Wood County,OH,41.4609483,-83.4696898,OK,43443
+43445,None,postal_code,None,OH,41.5758428,-83.3041061,OK,43445
+43446,Middle Bass,postal_code,Ottawa County,OH,41.6826764,-82.8128918,OK,43446
+43447,Millbury,postal_code,None,OH,41.5586869,-83.43767489999999,OK,43447
+43449,Oak Harbor,postal_code,None,OH,41.5365328,-83.1434573,OK,43449
+43450,Pemberville,postal_code,Wood County,OH,41.4076239,-83.4963567,OK,43450
+43451,Portage,postal_code,Wood County,OH,41.3149386,-83.624201,OK,43451
+43452,Port Clinton,postal_code,Ottawa County,OH,41.4889702,-83.01465259999999,OK,43452
+43456,Put-in-Bay,postal_code,Ottawa County,OH,41.6512811,-82.82636149999999,OK,43456
+43457,Risingsun,postal_code,None,OH,41.264161,-83.4323375,OK,43457
+43458,Rocky Ridge,postal_code,Ottawa County,OH,41.5337031,-83.21252989999999,OK,43458
+43460,Rossford,postal_code,None,OH,41.6056979,-83.5656379,OK,43460
+43462,Rudolph,postal_code,Wood County,OH,41.2807925,-83.7305392,OK,43462
+43463,Stony Ridge,postal_code,Wood County,OH,41.5092602,-83.5065204,OK,43463
+43464,Vickery,postal_code,None,OH,41.40401920000001,-82.92864279999999,OK,43464
+43465,Walbridge,postal_code,Wood County,OH,41.5483045,-83.517682,OK,43465
+43466,Wayne,postal_code,Wood County,OH,41.2889972,-83.517682,OK,43466
+43467,West Millgrove,postal_code,Wood County,OH,41.2438157,-83.4923574,OK,43467
+43468,Williston,postal_code,Ottawa County,OH,41.6018787,-83.3405312,OK,43468
+43469,Woodville,postal_code,None,OH,41.46012400000001,-83.3682539,OK,43469
+43501,Alvordton,postal_code,Williams County,OH,41.6775938,-84.46976629999999,OK,43501
+43502,Archbold,postal_code,None,OH,41.5195989,-84.2910759,OK,43502
+43504,Berkey,postal_code,None,OH,41.685131,-83.8366958,OK,43504
+43505,Blakeslee,postal_code,Williams County,OH,41.525004,-84.7309033,OK,43505
+43506,Bryan,postal_code,None,OH,41.4520535,-84.54318669999999,OK,43506
+43510,Colton,postal_code,Henry County,OH,41.4652217,-83.95226459999999,OK,43510
+43511,Custar,postal_code,None,OH,41.2653821,-83.81547909999999,OK,43511
+43512,Defiance,postal_code,None,OH,41.2650829,-84.3962535,OK,43512
+43515,Delta,postal_code,Fulton County,OH,41.5842084,-83.99558789999999,OK,43515
+43516,Deshler,postal_code,None,OH,41.2204222,-83.91089680000002,OK,43516
+43517,Edgerton,postal_code,None,OH,41.4617811,-84.75244819999999,OK,43517
+43518,Edon,postal_code,Williams County,OH,41.5814078,-84.75244819999999,OK,43518
+43519,Stryker,postal_code,Defiance County,OH,41.4253294,-84.3959251,OK,43519
+43520,Farmer,postal_code,Defiance County,OH,41.3858712,-84.6312169,OK,43520
+43521,Fayette,postal_code,None,OH,41.6787983,-84.2910759,OK,43521
+43522,Grand Rapids,postal_code,None,OH,41.426364,-83.8366958,OK,43522
+43523,Grelton,postal_code,Henry County,OH,41.3416799,-83.99869,OK,43523
+43524,Hamler,postal_code,Henry County,OH,41.2270664,-84.0378894,OK,43524
+43525,Haskins,postal_code,Wood County,OH,41.4663948,-83.70131429999999,OK,43525
+43526,Hicksville,postal_code,None,OH,41.2999653,-84.7106567,OK,43526
+43527,Holgate,postal_code,None,OH,41.2314102,-84.1224036,OK,43527
+43528,Holland,postal_code,Lucas County,OH,41.620939,-83.75178509999999,OK,43528
+43529,Hoytville,postal_code,Wood County,OH,41.1902027,-83.78463550000001,OK,43529
+43530,Jewell,postal_code,Defiance County,OH,41.3238354,-84.28745710000001,OK,43530
+43531,Kunkle,postal_code,Williams County,OH,41.6360543,-84.49108079999999,OK,43531
+43532,Liberty Center,postal_code,None,OH,41.4646868,-83.99558789999999,OK,43532
+43533,Lyons,postal_code,Fulton County,OH,41.6984727,-84.0907246,OK,43533
+43534,Grelton,postal_code,Henry County,OH,41.3404576,-83.91089680000002,OK,43534
+43535,Malinta,postal_code,Henry County,OH,41.3071211,-84.0378894,OK,43535
+43536,Mark Center,postal_code,Defiance County,OH,41.3065886,-84.63744840000001,OK,43536
+43537,Maumee,postal_code,Lucas County,OH,41.5683175,-83.6986568,OK,43537
+43540,Metamora,postal_code,Fulton County,OH,41.6907655,-83.94266979999999,OK,43540
+43541,Milton Center,postal_code,Wood County,OH,41.2985991,-83.8287404,OK,43541
+43542,Monclova,postal_code,Lucas County,OH,41.5624201,-83.7730237,OK,43542
+43543,Holiday City,postal_code,Williams County,OH,41.6154354,-84.6269824,OK,43543
+43545,Florida,postal_code,Henry County,OH,41.4124518,-84.14351359999999,OK,43545
+43547,Neapolis,postal_code,Lucas County,OH,41.4915425,-83.8728138,OK,43547
+43548,New Bavaria,postal_code,None,OH,41.1839964,-84.17516479999999,OK,43548
+43549,Ney,postal_code,Defiance County,OH,41.37216189999999,-84.54318669999999,OK,43549
+43550,Okolona,postal_code,Henry County,OH,41.39044,-84.12653,OK,43550
+43551,Perrysburg,postal_code,Wood County,OH,41.5214385,-83.57096399999999,OK,43551
+43552,Perrysburg,postal_code,Wood County,OH,41.5431369,-83.61848959999999,OK,43552
+43553,Pettisville,postal_code,Fulton County,OH,41.5324714,-84.22771490000001,OK,43553
+43554,Pioneer,postal_code,Williams County,OH,41.6617182,-84.5536678,OK,43554
+43555,RDGVILLE CORS,postal_code,Henry County,OH,41.4370735,-84.2608027,OK,43555
+43556,Sherwood,postal_code,Defiance County,OH,41.2941329,-84.5850997,OK,43556
+43557,Stryker,postal_code,None,OH,41.483871,-84.375233,OK,43557
+43558,Swanton,postal_code,None,OH,41.5775019,-83.8685072,OK,43558
+43560,Sylvania,postal_code,Lucas County,OH,41.6992425,-83.7305392,OK,43560
+43565,Tontogany,postal_code,Wood County,OH,41.4164032,-83.7388393,OK,43565
+43566,Waterville,postal_code,Lucas County,OH,41.5015319,-83.75178509999999,OK,43566
+43567,Wauseon,postal_code,None,OH,41.5719341,-84.14351359999999,OK,43567
+43569,Weston,postal_code,Wood County,OH,41.3442184,-83.7942551,OK,43569
+43570,West Unity,postal_code,None,OH,41.6074807,-84.4592701,OK,43570
+43571,Whitehouse,postal_code,Lucas County,OH,41.5049749,-83.81547909999999,OK,43571
+43601,Toledo,postal_code,Lucas County,OH,41.6411077,-83.54366259999999,OK,43601
+43603,Toledo,postal_code,Lucas County,OH,41.65,-83.53,OK,43603
+43604,Toledo,postal_code,Lucas County,OH,41.6541814,-83.5443287,OK,43604
+43605,Northwood,postal_code,None,OH,41.6517775,-83.5016887,OK,43605
+43606,Toledo,postal_code,Lucas County,OH,41.6735366,-83.624201,OK,43606
+43607,Toledo,postal_code,Lucas County,OH,41.6472294,-83.59758819999999,OK,43607
+43608,Toledo,postal_code,Lucas County,OH,41.6833676,-83.5336714,OK,43608
+43609,Toledo,postal_code,Lucas County,OH,41.6255748,-83.5656379,OK,43609
+43610,Toledo,postal_code,Lucas County,OH,41.6775685,-83.56297459999999,OK,43610
+43611,Toledo,postal_code,Lucas County,OH,41.7008069,-83.4910242,OK,43611
+43612,Toledo,postal_code,Lucas County,OH,41.7084764,-83.53900019999999,OK,43612
+43613,Toledo,postal_code,Lucas County,OH,41.7120535,-83.6029116,OK,43613
+43614,Toledo,postal_code,Lucas County,OH,41.5993157,-83.6295222,OK,43614
+43615,Toledo,postal_code,Lucas County,OH,41.6560291,-83.666758,OK,43615
+43616,Oregon,postal_code,Lucas County,OH,41.6615051,-83.41098339999999,OK,43616
+43617,Toledo,postal_code,Lucas County,OH,41.6647825,-83.7358514,OK,43617
+43619,Northwood,postal_code,None,OH,41.6043442,-83.4536844,OK,43619
+43620,Toledo,postal_code,Lucas County,OH,41.6670429,-83.5523205,OK,43620
+43623,Toledo,postal_code,Lucas County,OH,41.6998261,-83.6508025,OK,43623
+43635,Toledo,postal_code,Lucas County,OH,41.6615259,-83.6861485,OK,43635
+43652,Toledo,postal_code,Lucas County,OH,41.6508647,-83.5338189,OK,43652
+43654,Toledo,postal_code,Lucas County,OH,41.64,-83.53999999999999,OK,43654
+43656,Toledo,postal_code,Lucas County,OH,41.6983641,-83.6489722,OK,43656
+43657,Toledo,postal_code,Lucas County,OH,41.6822018,-83.5717543,OK,43657
+43659,Toledo,postal_code,Lucas County,OH,41.65,-83.53999999999999,OK,43659
+43660,Toledo,postal_code,Lucas County,OH,41.6552796,-83.5335048,OK,43660
+43661,Toledo,postal_code,Lucas County,OH,41.64,-83.53999999999999,OK,43661
+43666,Toledo,postal_code,Lucas County,OH,41.64,-83.53999999999999,OK,43666
+43667,Toledo,postal_code,Lucas County,OH,41.6514069,-83.53477,OK,43667
+43681,Toledo,postal_code,Lucas County,OH,41.64,-83.53999999999999,OK,43681
+43682,Toledo,postal_code,Lucas County,OH,41.64,-83.53999999999999,OK,43682
+43697,Toledo,postal_code,Lucas County,OH,41.64,-83.53999999999999,OK,43697
+43699,Toledo,postal_code,Lucas County,OH,41.64,-83.53999999999999,OK,43699
+43701,South Zanesville,postal_code,Muskingum County,OH,39.98560690000001,-81.909826,OK,43701
+43702,South Zanesville,postal_code,Muskingum County,OH,39.9,-82.00999999999999,OK,43702
+43711,Ava,postal_code,Noble County,OH,39.8361033,-81.567869,OK,43711
+43713,Somerton,postal_code,Belmont County,OH,39.9880986,-81.1765211,OK,43713
+43716,Beallsville,postal_code,None,OH,39.8169845,-81.0092062,OK,43716
+43717,Belle Valley,postal_code,Noble County,OH,39.7892981,-81.5569003,OK,43717
+43718,Belmont,postal_code,Belmont County,OH,40.0209,-81.0092062,OK,43718
+43719,Bethesda,postal_code,Belmont County,OH,39.9963519,-81.08650349999999,OK,43719
+43720,Blue Rock,postal_code,None,OH,39.8096634,-81.87706709999999,OK,43720
+43721,Brownsville,postal_code,Licking County,OH,39.949231,-82.2542556,OK,43721
+43722,Buffalo,postal_code,Guernsey County,OH,39.9160127,-81.52158399999999,OK,43722
+43723,Byesville,postal_code,Guernsey County,OH,39.9683509,-81.52672820000001,OK,43723
+43724,Caldwell,postal_code,None,OH,39.7153065,-81.5596427,OK,43724
+43725,Cambridge,postal_code,Guernsey County,OH,40.042095,-81.5596427,OK,43725
+43727,CHANDLERSVLLE,postal_code,Muskingum County,OH,39.8758272,-81.8005724,OK,43727
+43728,Chesterhill,postal_code,None,OH,39.482986,-81.89890799999999,OK,43728
+43730,Corning,postal_code,Perry County,OH,39.6483745,-82.06250519999999,OK,43730
+43731,Crooksville,postal_code,None,OH,39.7398891,-82.0516102,OK,43731
+43732,Cumberland,postal_code,None,OH,39.8255636,-81.6692532,OK,43732
+43733,Derwent,postal_code,Guernsey County,OH,39.9260049,-81.5404443,OK,43733
+43734,Duncan Falls,postal_code,Muskingum County,OH,39.87803,-81.9043672,OK,43734
+43735,East Fultonham,postal_code,Muskingum County,OH,39.8502286,-82.1217174,OK,43735
+43736,Quaker City,postal_code,Guernsey County,OH,40.05703,-81.23302,OK,43736
+43738,Fultonham,postal_code,Muskingum County,OH,39.85574709999999,-82.14178390000001,OK,43738
+43739,Glenford,postal_code,None,OH,39.9007661,-82.31262939999999,OK,43739
+43740,Gratiot,postal_code,None,OH,39.951191,-82.2168981,OK,43740
+43746,Hopewell,postal_code,Muskingum County,OH,39.97373690000001,-82.1822399,OK,43746
+43747,Jerusalem,postal_code,None,OH,39.8570024,-81.1306391,OK,43747
+43748,Junction City,postal_code,Perry County,OH,39.7069825,-82.32348429999999,OK,43748
+43749,Guernsey,postal_code,None,OH,40.1796758,-81.49379929999999,OK,43749
+43750,Kipling,postal_code,Guernsey County,OH,39.99909,-81.50690999999999,OK,43750
+43752,Laings,postal_code,Monroe County,OH,39.72,-81.00999999999999,OK,43752
+43754,Sycamore Valley,postal_code,Monroe County,OH,39.793072,-81.22985299999999,OK,43754
+43755,Lore City,postal_code,Guernsey County,OH,40.0637502,-81.4388858,OK,43755
+43756,MCCONNELSVLE,postal_code,None,OH,39.6711503,-81.8005724,OK,43756
+43757,Malaga,postal_code,Monroe County,OH,39.8552539,-81.1473559,OK,43757
+43758,Malta,postal_code,Morgan County,OH,39.6393367,-81.931657,OK,43758
+43759,Morristown,postal_code,Belmont County,OH,40.0598052,-81.07615559999999,OK,43759
+43760,Mount Perry,postal_code,None,OH,39.8934983,-82.2039882,OK,43760
+43761,Moxahala,postal_code,Perry County,OH,39.6625913,-82.13596249999999,OK,43761
+43762,New Concord,postal_code,None,OH,40.0249905,-81.7458845,OK,43762
+43764,New Lexington,postal_code,Perry County,OH,39.6982719,-82.1931149,OK,43764
+43766,NEW STRAITSVL,postal_code,None,OH,39.5890347,-82.2474648,OK,43766
+43767,Norwich,postal_code,Muskingum County,OH,40.0500382,-81.81150509999999,OK,43767
+43768,Old Washington,postal_code,Guernsey County,OH,40.0378137,-81.44094580000001,OK,43768
+43771,Philo,postal_code,Muskingum County,OH,39.8441627,-81.931657,OK,43771
+43772,Pleasant City,postal_code,None,OH,39.8867236,-81.52672820000001,OK,43772
+43773,Quaker City,postal_code,None,OH,40.0004844,-81.27390729999999,OK,43773
+43777,Roseville,postal_code,None,OH,39.8152788,-82.10606829999999,OK,43777
+43778,Salesville,postal_code,None,OH,39.9977378,-81.3729372,OK,43778
+43779,Sarahsville,postal_code,Noble County,OH,39.8173312,-81.4169093,OK,43779
+43780,Senecaville,postal_code,None,OH,39.9210764,-81.4388858,OK,43780
+43782,Shawnee,postal_code,Perry County,OH,39.6301083,-82.2474648,OK,43782
+43783,Somerset,postal_code,Perry County,OH,39.7889545,-82.32348429999999,OK,43783
+43786,Stafford,postal_code,Monroe County,OH,39.7173489,-81.27665979999999,OK,43786
+43787,Pennsville,postal_code,None,OH,39.54491290000001,-81.7568253,OK,43787
+43788,Summerfield,postal_code,None,OH,39.8107669,-81.32893969999999,OK,43788
+43791,White Cottage,postal_code,Muskingum County,OH,39.8555636,-82.1155942,OK,43791
+43793,Woodsfield,postal_code,Monroe County,OH,39.7420629,-81.0975397,OK,43793
+43802,Adamsville,postal_code,Muskingum County,OH,40.1236287,-81.84429340000001,OK,43802
+43803,Bakersville,postal_code,Coshocton County,OH,40.35494,-81.64462999999999,OK,43803
+43804,Baltic,postal_code,None,OH,40.4514728,-81.7458845,OK,43804
+43805,Blissfield,postal_code,Coshocton County,OH,40.3940761,-81.97257259999999,OK,43805
+43811,Conesville,postal_code,Coshocton County,OH,40.1798599,-81.9207423,OK,43811
+43812,Coshocton,postal_code,None,OH,40.2892965,-81.8879884,OK,43812
+43821,Dresden,postal_code,None,OH,40.1328054,-81.97529949999999,OK,43821
+43822,Frazeysburg,postal_code,None,OH,40.1884251,-82.1931149,OK,43822
+43824,New Bedford,postal_code,None,OH,40.361124,-81.7568253,OK,43824
+43828,Keene,postal_code,Coshocton County,OH,40.35,-81.86999999999999,OK,43828
+43830,Nashport,postal_code,None,OH,40.0538592,-82.1604849,OK,43830
+43832,Newcomerstown,postal_code,None,OH,40.2673428,-81.5815776,OK,43832
+43836,Plainfield,postal_code,Coshocton County,OH,40.2075509,-81.7198935,OK,43836
+43837,Port Washington,postal_code,None,OH,40.3452487,-81.5377013,OK,43837
+43840,Stone Creek,postal_code,None,OH,40.4053659,-81.5980246,OK,43840
+43842,Trinway,postal_code,Muskingum County,OH,40.1340843,-82.0121023,OK,43842
+43843,Walhonding,postal_code,None,OH,40.3197537,-82.1822399,OK,43843
+43844,Warsaw,postal_code,Coshocton County,OH,40.3420139,-82.06250519999999,OK,43844
+43845,West Lafayette,postal_code,Coshocton County,OH,40.267501,-81.7239979,OK,43845
+43901,Adena,postal_code,None,OH,40.22296559999999,-80.86545339999999,OK,43901
+43902,Alledonia,postal_code,Belmont County,OH,39.8841173,-80.9539475,OK,43902
+43903,Amsterdam,postal_code,None,OH,40.4728612,-80.9539475,OK,43903
+43905,Barton,postal_code,Belmont County,OH,40.1015246,-80.84227659999999,OK,43905
+43906,Bellaire,postal_code,Belmont County,OH,40.01450550000001,-80.7990185,OK,43906
+43907,Moorefield,postal_code,None,OH,40.2461348,-81.0312989,OK,43907
+43908,Bergholz,postal_code,None,OH,40.50625700000001,-80.86545339999999,OK,43908
+43909,Blaine,postal_code,Belmont County,OH,40.0673338,-80.8175047,OK,43909
+43910,Bloomingdale,postal_code,None,OH,40.3722576,-80.8322428,OK,43910
+43912,Bridgeport,postal_code,Belmont County,OH,40.0903341,-80.7934798,OK,43912
+43913,Brilliant,postal_code,Jefferson County,OH,40.2696999,-80.6271415,OK,43913
+43914,Cameron,postal_code,Monroe County,OH,39.7682019,-80.9446188,OK,43914
+43915,Clarington,postal_code,Monroe County,OH,39.7283144,-80.92077370000001,OK,43915
+43916,Colerain,postal_code,Belmont County,OH,40.1293283,-80.8152346,OK,43916
+43917,Dillonvale,postal_code,None,OH,40.2176791,-80.7990185,OK,43917
+43920,Calcutta,postal_code,Columbiana County,OH,40.6735208,-80.5660657,OK,43920
+43925,East Springfield,postal_code,Jefferson County,OH,40.4506409,-80.8607042,OK,43925
+43926,Empire,postal_code,Jefferson County,OH,40.5107073,-80.62297869999999,OK,43926
+43927,Fairpoint,postal_code,Belmont County,OH,40.1210658,-80.9340211,OK,43927
+43928,Glencoe,postal_code,Belmont County,OH,40.0086326,-80.889315,OK,43928
+43930,Hammondsville,postal_code,None,OH,40.5597134,-80.7768613,OK,43930
+43931,Hannibal,postal_code,Monroe County,OH,39.6637014,-80.87167889999999,OK,43931
+43932,Irondale,postal_code,None,OH,40.5248583,-80.7824012,OK,43932
+43933,Armstrongs Mills,postal_code,Belmont County,OH,39.9418152,-80.9097127,OK,43933
+43934,Lansing,postal_code,Belmont County,OH,40.0726839,-80.7872482,OK,43934
+43935,Martins Ferry,postal_code,Belmont County,OH,40.1219002,-80.7436141,OK,43935
+43937,Maynard,postal_code,Belmont County,OH,40.1232936,-80.8792325,OK,43937
+43938,Mingo Junction,postal_code,Jefferson County,OH,40.3082984,-80.6659842,OK,43938
+43939,Mount Pleasant,postal_code,Jefferson County,OH,40.1754861,-80.79867229999999,OK,43939
+43940,Neffs,postal_code,Belmont County,OH,40.0276844,-80.8147671,OK,43940
+43941,Piney Fork,postal_code,Jefferson County,OH,40.2552983,-80.82298949999999,OK,43941
+43942,Powhatan Point,postal_code,None,OH,39.8549933,-80.8433145,OK,43942
+43943,Rayland,postal_code,Jefferson County,OH,40.23262829999999,-80.7325287,OK,43943
+43944,Richmond,postal_code,Jefferson County,OH,40.4385989,-80.7768613,OK,43944
+43945,Salineville,postal_code,None,OH,40.654816,-80.8322428,OK,43945
+43946,Sardis,postal_code,Monroe County,OH,39.649915,-80.9650023,OK,43946
+43947,Shadyside,postal_code,Belmont County,OH,39.9516504,-80.7768613,OK,43947
+43948,Smithfield,postal_code,Jefferson County,OH,40.267325,-80.7820549,OK,43948
+43950,Saint CLAIRSVLE,postal_code,None,OH,40.0953458,-80.92077370000001,OK,43950
+43951,Lafferty,postal_code,Belmont County,OH,40.1117274,-81.0123134,OK,43951
+43952,Steubenville,postal_code,Jefferson County,OH,40.40944750000001,-80.6659842,OK,43952
+43953,Steubenville,postal_code,Jefferson County,OH,40.3725988,-80.7103532,OK,43953
+43961,Stratton,postal_code,Jefferson County,OH,40.5210208,-80.62575389999999,OK,43961
+43962,Summitville,postal_code,Columbiana County,OH,40.6787804,-80.88637589999999,OK,43962
+43963,Tiltonsville,postal_code,None,OH,40.1727841,-80.6978769,OK,43963
+43964,Toronto,postal_code,Jefferson County,OH,40.47924769999999,-80.6548882,OK,43964
+43967,Warnock,postal_code,Belmont County,OH,40.0225713,-80.937831,OK,43967
+43968,Wellsville,postal_code,None,OH,40.6331651,-80.68817179999999,OK,43968
+43970,Wolf Run,postal_code,Jefferson County,OH,40.4672263,-80.8887312,OK,43970
+43971,Yorkville,postal_code,None,OH,40.1625974,-80.7131255,OK,43971
+43972,Bannock,postal_code,Belmont County,OH,40.0989583,-80.97691909999999,OK,43972
+43973,Freeport,postal_code,None,OH,40.1665748,-81.3179364,OK,43973
+43974,Harrisville,postal_code,Harrison County,OH,40.182633,-80.8886235,OK,43974
+43976,Hopedale,postal_code,None,OH,40.3682842,-80.9097127,OK,43976
+43977,Flushing,postal_code,None,OH,40.1387615,-81.08650349999999,OK,43977
+43981,New Athens,postal_code,Harrison County,OH,40.1812988,-80.9967764,OK,43981
+43983,Piedmont,postal_code,None,OH,40.1269083,-81.19679579999999,OK,43983
+43984,New Rumley,postal_code,Harrison County,OH,40.4014709,-81.0303792,OK,43984
+43985,Holloway,postal_code,Belmont County,OH,40.160074,-81.12822609999999,OK,43985
+43986,Jewett,postal_code,None,OH,40.3862137,-81.0092062,OK,43986
+43988,Scio,postal_code,None,OH,40.4040456,-81.1085744,OK,43988
+44001,South Amherst,postal_code,Lorain County,OH,41.3983479,-82.2250555,OK,44001
+44003,Andover,postal_code,Ashtabula County,OH,41.6310819,-80.5660657,OK,44003
+44004,Ashtabula,postal_code,Ashtabula County,OH,41.84662160000001,-80.7879407,OK,44004
+44005,Ashtabula,postal_code,Ashtabula County,OH,41.87,-80.78999999999999,OK,44005
+44010,Austinburg,postal_code,Ashtabula County,OH,41.7623044,-80.8433145,OK,44010
+44011,Avon,postal_code,Lorain County,OH,41.4531581,-82.00801400000002,OK,44011
+44012,Avon Lake,postal_code,Lorain County,OH,41.4929278,-82.00801400000002,OK,44012
+44017,Berea,postal_code,Cuyahoga County,OH,41.3681574,-81.86068209999999,OK,44017
+44021,Burton,postal_code,Geauga County,OH,41.430108,-81.1526976,OK,44021
+44022,Moreland Hills,postal_code,None,OH,41.4485544,-81.3949264,OK,44022
+44023,Chagrin Falls,postal_code,Geauga County,OH,41.3698038,-81.27390729999999,OK,44023
+44024,Chardon,postal_code,None,OH,41.54354319999999,-81.20781640000001,OK,44024
+44026,Chesterland,postal_code,Geauga County,OH,41.5354325,-81.36194019999999,OK,44026
+44028,Columbia Station,postal_code,Lorain County,OH,41.2984264,-81.931657,OK,44028
+44030,Conneaut,postal_code,Ashtabula County,OH,41.90729530000001,-80.5660657,OK,44030
+44032,Dorset,postal_code,Ashtabula County,OH,41.677921,-80.6548882,OK,44032
+44033,East Claridon,postal_code,Geauga County,OH,41.53192809999999,-81.11591229999999,OK,44033
+44035,North Ridgeville,postal_code,Lorain County,OH,41.3683407,-82.10764139999999,OK,44035
+44036,Elyria,postal_code,Lorain County,OH,41.3707754,-82.0962669,OK,44036
+44039,North Ridgeville,postal_code,Lorain County,OH,41.3842511,-82.0189155,OK,44039
+44040,Gates Mills,postal_code,Cuyahoga County,OH,41.5296421,-81.4169093,OK,44040
+44041,Geneva,postal_code,None,OH,41.781854,-80.9650023,OK,44041
+44044,Grafton,postal_code,Lorain County,OH,41.2676423,-82.06250519999999,OK,44044
+44045,Grand River,postal_code,Lake County,OH,41.736343,-81.27734799999999,OK,44045
+44046,Huntsburg,postal_code,Geauga County,OH,41.560459,-81.04234290000001,OK,44046
+44047,Jefferson,postal_code,Ashtabula County,OH,41.7246561,-80.7436141,OK,44047
+44048,Kingsville,postal_code,Ashtabula County,OH,41.8447643,-80.6437906,OK,44048
+44049,Kipton,postal_code,Lorain County,OH,41.267516,-82.301947,OK,44049
+44050,LaGrange,postal_code,Lorain County,OH,41.2429365,-82.1387233,OK,44050
+44052,Lorain,postal_code,Lorain County,OH,41.4636771,-82.1604849,OK,44052
+44053,Lorain,postal_code,Lorain County,OH,41.4329234,-82.2202951,OK,44053
+44054,Sheffield Lake,postal_code,Lorain County,OH,41.4790857,-82.09518,OK,44054
+44055,Lorain,postal_code,Lorain County,OH,41.4369439,-82.13328179999999,OK,44055
+44056,Northfield,postal_code,Summit County,OH,41.3174524,-81.50477719999999,OK,44056
+44057,Madison,postal_code,None,OH,41.7493082,-81.0533854,OK,44057
+44060,MENTOR ON THE,postal_code,None,OH,41.6906085,-81.3179364,OK,44060
+44061,Mentor,postal_code,Lake County,OH,41.68629790000001,-81.3324396,OK,44061
+44062,Middlefield,postal_code,None,OH,41.4685922,-81.0092062,OK,44062
+44064,Montville,postal_code,None,OH,41.6000883,-81.04234290000001,OK,44064
+44065,None,postal_code,Geauga County,OH,41.4567519,-81.2408689,OK,44065
+44067,Northfield,postal_code,Summit County,OH,41.32069509999999,-81.54867279999999,OK,44067
+44068,North Kingsville,postal_code,Ashtabula County,OH,41.9060014,-80.6898215,OK,44068
+44070,North Olmsted,postal_code,Cuyahoga County,OH,41.4118396,-81.91528439999999,OK,44070
+44072,Russell Center,postal_code,Geauga County,OH,41.4634507,-81.32893969999999,OK,44072
+44073,Novelty,postal_code,Geauga County,OH,41.4602283,-81.3028042,OK,44073
+44074,Elyria,postal_code,Lorain County,OH,41.2795429,-82.2365981,OK,44074
+44076,Orwell,postal_code,None,OH,41.5339129,-80.8322428,OK,44076
+44077,Painesville,postal_code,Lake County,OH,41.68389380000001,-81.22985299999999,OK,44077
+44080,Parkman,postal_code,Geauga County,OH,41.3695422,-81.06477129999999,OK,44080
+44081,Perry,postal_code,Lake County,OH,41.766908,-81.1526976,OK,44081
+44082,Pierpont,postal_code,Ashtabula County,OH,41.7585802,-80.5549561,OK,44082
+44084,Roaming Shores,postal_code,Ashtabula County,OH,41.6688005,-80.9097127,OK,44084
+44085,Roaming Shores,postal_code,Ashtabula County,OH,41.6059093,-80.86545339999999,OK,44085
+44086,Thompson,postal_code,None,OH,41.680988,-81.0644263,OK,44086
+44087,Twinsburg,postal_code,Summit County,OH,41.3125528,-81.4388858,OK,44087
+44088,Unionville,postal_code,Ashtabula County,OH,41.80443,-80.94785999999999,OK,44088
+44089,Vermilion,postal_code,None,OH,41.39723559999999,-82.3560389,OK,44089
+44090,Wellington,postal_code,Lorain County,OH,41.1596486,-82.2365981,OK,44090
+44092,WILOUGHBY HLS,postal_code,Lake County,OH,41.5977963,-81.4663475,OK,44092
+44093,Williamsfield,postal_code,Ashtabula County,OH,41.52675259999999,-80.621591,OK,44093
+44094,WILOUGHBY HLS,postal_code,Lake County,OH,41.6056635,-81.3729372,OK,44094
+44095,Willoughby,postal_code,Lake County,OH,41.655593,-81.444379,OK,44095
+44096,Willoughby,postal_code,Lake County,OH,41.61,-81.39,OK,44096
+44097,Willoughby,postal_code,Lake County,OH,41.6599999,-81.42999999999999,OK,44097
+44099,Windsor,postal_code,None,OH,41.5552528,-80.9760556,OK,44099
+44101,Cleveland,postal_code,Cuyahoga County,OH,41.4908027,-81.6726759,OK,44101
+44102,Cleveland,postal_code,Cuyahoga County,OH,41.4789363,-81.7404134,OK,44102
+44103,Cleveland,postal_code,Cuyahoga County,OH,41.5214566,-81.6418656,OK,44103
+44104,Cleveland,postal_code,Cuyahoga County,OH,41.4809312,-81.6309078,OK,44104
+44105,Garfield Heights,postal_code,Cuyahoga County,OH,41.451118,-81.6309078,OK,44105
+44106,Cleveland,postal_code,Cuyahoga County,OH,41.5091257,-81.6089873,OK,44106
+44107,Cleveland,postal_code,Cuyahoga County,OH,41.4836446,-81.806039,OK,44107
+44108,Cleveland,postal_code,Cuyahoga County,OH,41.5389065,-81.6089873,OK,44108
+44109,Cleveland,postal_code,Cuyahoga County,OH,41.4513221,-81.7021049,OK,44109
+44110,Cleveland,postal_code,Cuyahoga County,OH,41.5563382,-81.57609450000001,OK,44110
+44111,Cleveland,postal_code,Cuyahoga County,OH,41.45226,-81.7841703,OK,44111
+44112,Cleveland,postal_code,Cuyahoga County,OH,41.5364934,-81.57609450000001,OK,44112
+44113,Cleveland,postal_code,Cuyahoga County,OH,41.4857101,-81.69663059999999,OK,44113
+44114,Cleveland,postal_code,Cuyahoga County,OH,41.5139193,-81.6747295,OK,44114
+44115,Cleveland,postal_code,Cuyahoga County,OH,41.4963405,-81.6719914,OK,44115
+44116,Rocky River,postal_code,Cuyahoga County,OH,41.4768217,-81.8497567,OK,44116
+44117,Cleveland,postal_code,Cuyahoga County,OH,41.5721298,-81.521241,OK,44117
+44118,Cleveland,postal_code,Cuyahoga County,OH,41.5050985,-81.55415789999999,OK,44118
+44119,Cleveland,postal_code,Cuyahoga County,OH,41.5867536,-81.5514154,OK,44119
+44120,Cleveland,postal_code,Cuyahoga County,OH,41.4769163,-81.57609450000001,OK,44120
+44121,Cleveland,postal_code,Cuyahoga County,OH,41.5233346,-81.5322149,OK,44121
+44122,WARRENSVL HTS,postal_code,Cuyahoga County,OH,41.4766201,-81.50477719999999,OK,44122
+44123,Cleveland,postal_code,Cuyahoga County,OH,41.6018724,-81.521241,OK,44123
+44124,Cleveland,postal_code,Cuyahoga County,OH,41.4932198,-81.46085599999999,OK,44124
+44125,Valley View,postal_code,Cuyahoga County,OH,41.4051673,-81.614468,OK,44125
+44126,Fairview Park,postal_code,Cuyahoga County,OH,41.4378261,-81.86068209999999,OK,44126
+44127,Cuyahoga Heights,postal_code,Cuyahoga County,OH,41.4725929,-81.65282189999999,OK,44127
+44128,WARRENSVL HTS,postal_code,Cuyahoga County,OH,41.4339301,-81.5322149,OK,44128
+44129,Parma,postal_code,Cuyahoga County,OH,41.3886412,-81.7294702,OK,44129
+44130,MIDDLEBRG HTS,postal_code,Cuyahoga County,OH,41.376464,-81.7677645,OK,44130
+44131,Independence,postal_code,Cuyahoga County,OH,41.3884635,-81.65829939999999,OK,44131
+44132,Cleveland,postal_code,Cuyahoga County,OH,41.610156,-81.4992884,OK,44132
+44133,North Royalton,postal_code,Cuyahoga County,OH,41.32587669999999,-81.7568253,OK,44133
+44134,Parma,postal_code,Cuyahoga County,OH,41.3916411,-81.7021049,OK,44134
+44135,Cleveland,postal_code,Cuyahoga County,OH,41.425548,-81.82790109999999,OK,44135
+44136,Strongsville,postal_code,Cuyahoga County,OH,41.3198259,-81.81150509999999,OK,44136
+44137,Maple Heights,postal_code,Cuyahoga County,OH,41.4065224,-81.56512699999999,OK,44137
+44138,Olmsted Falls,postal_code,Cuyahoga County,OH,41.3674222,-81.9207423,OK,44138
 44139,Cleveland,postal_code,Cuyahoga County,OH,41.383063,-81.4498717,OK,44139
+44140,Bay Village,postal_code,Cuyahoga County,OH,41.4883493,-81.9425701,OK,44140
+44141,Brecksville,postal_code,None,OH,41.3055951,-81.614468,OK,44141
+44142,Brook Park,postal_code,Cuyahoga County,OH,41.399503,-81.81150509999999,OK,44142
+44143,MAYFIELD VILLAGE,postal_code,Cuyahoga County,OH,41.5544029,-81.4828198,OK,44143
+44144,Brooklyn,postal_code,Cuyahoga County,OH,41.434595,-81.7458845,OK,44144
+44145,Westlake,postal_code,Cuyahoga County,OH,41.4470451,-81.9207423,OK,44145
+44146,Walton Hills,postal_code,Cuyahoga County,OH,41.3788177,-81.52672820000001,OK,44146
+44147,Broadview Heights,postal_code,Cuyahoga County,OH,41.33031,-81.68020539999999,OK,44147
+44149,Strongsville,postal_code,None,OH,41.3029994,-81.8552196,OK,44149
+44181,Cleveland,postal_code,Cuyahoga County,OH,41.4996449,-81.6955605,OK,44181
+44188,Cleveland,postal_code,Cuyahoga County,OH,41.4,-81.83,OK,44188
+44190,Cleveland,postal_code,Cuyahoga County,OH,41.48999999999999,-81.67999999999999,OK,44190
+44191,Cleveland,postal_code,Cuyahoga County,OH,41.48999999999999,-81.67999999999999,OK,44191
+44192,Cleveland,postal_code,Cuyahoga County,OH,41.48999999999999,-81.67999999999999,OK,44192
+44193,Cleveland,postal_code,Cuyahoga County,OH,41.48999999999999,-81.67999999999999,OK,44193
+44194,Cleveland,postal_code,Cuyahoga County,OH,41.48999999999999,-81.67999999999999,OK,44194
+44195,Cleveland,postal_code,Cuyahoga County,OH,41.5034177,-81.6204806,OK,44195
+44197,Cleveland,postal_code,Cuyahoga County,OH,41.48999999999999,-81.67999999999999,OK,44197
+44198,Cleveland,postal_code,Cuyahoga County,OH,41.48999999999999,-81.67999999999999,OK,44198
+44199,Cleveland,postal_code,Cuyahoga County,OH,41.5042741,-81.69149809999999,OK,44199
+44201,Atwater,postal_code,None,OH,41.04039960000001,-81.1416691,OK,44201
+44202,Aurora,postal_code,None,OH,41.3059538,-81.3509416,OK,44202
+44203,Norton,postal_code,None,OH,41.0274472,-81.63638689999999,OK,44203
+44210,Bath,postal_code,Summit County,OH,41.1890793,-81.6367721,OK,44210
+44211,Brady Lake,postal_code,Portage County,OH,41.1621136,-81.3130499,OK,44211
+44212,Brunswick,postal_code,Medina County,OH,41.2415922,-81.8333656,OK,44212
+44214,Burbank,postal_code,None,OH,40.9521188,-81.986206,OK,44214
+44215,Chippewa Lake,postal_code,Medina County,OH,41.0816887,-81.9043672,OK,44215
+44216,New Franklin,postal_code,None,OH,40.9440655,-81.5925427,OK,44216
+44217,Creston,postal_code,None,OH,40.9475377,-81.9207423,OK,44217
+44221,Cuyahoga Falls,postal_code,Summit County,OH,41.1362185,-81.4828198,OK,44221
+44222,Cuyahoga Falls,postal_code,Summit County,OH,41.13,-81.47999999999999,OK,44222
+44223,Cuyahoga Falls,postal_code,Summit County,OH,41.1740315,-81.521241,OK,44223
+44224,Cuyahoga Falls,postal_code,Summit County,OH,41.1729114,-81.4388858,OK,44224
+44230,Doylestown,postal_code,None,OH,40.9705017,-81.68020539999999,OK,44230
+44231,Garrettsville,postal_code,None,OH,41.31299380000001,-81.0533854,OK,44231
+44232,Green,postal_code,Summit County,OH,40.93236950000001,-81.46471729999999,OK,44232
+44233,Hinckley,postal_code,Medina County,OH,41.2429494,-81.71305219999999,OK,44233
+44234,Hiram,postal_code,None,OH,41.3323577,-81.1747498,OK,44234
+44235,Homerville,postal_code,None,OH,41.0306111,-82.10606829999999,OK,44235
+44236,Hudson,postal_code,Summit County,OH,41.2527491,-81.4388858,OK,44236
+44237,Hudson,postal_code,Summit County,OH,41.25197350000001,-81.478702,OK,44237
+44240,Kent,postal_code,Portage County,OH,41.1263566,-81.3509416,OK,44240
+44241,Streetsboro,postal_code,Portage County,OH,41.2461518,-81.3509416,OK,44241
+44242,Kent,postal_code,Portage County,OH,41.15375,-81.35127,OK,44242
+44243,Kent,postal_code,Portage County,OH,41.1493605,-81.34131649999999,OK,44243
+44250,Lakemore,postal_code,Summit County,OH,41.023832,-81.42893049999999,OK,44250
+44251,Westfield Center,postal_code,Medina County,OH,41.0296799,-81.93029279999999,OK,44251
+44253,Litchfield,postal_code,None,OH,41.1754871,-82.0298154,OK,44253
+44254,Lodi,postal_code,Medina County,OH,41.05389530000001,-82.00801400000002,OK,44254
+44255,Mantua,postal_code,Portage County,OH,41.2975982,-81.2408689,OK,44255
+44256,Medina,postal_code,Medina County,OH,41.1524413,-81.8631302,OK,44256
+44258,Medina,postal_code,Medina County,OH,41.1419989,-81.8639975,OK,44258
+44260,Mogadore,postal_code,None,OH,41.0263329,-81.3509416,OK,44260
+44262,Munroe Falls,postal_code,Summit County,OH,41.14024010000001,-81.43613909999999,OK,44262
+44264,Peninsula,postal_code,Summit County,OH,41.2409395,-81.54867279999999,OK,44264
+44265,Randolph,postal_code,Portage County,OH,41.0328419,-81.2484145,OK,44265
+44266,Ravenna,postal_code,Portage County,OH,41.1637316,-81.18577359999999,OK,44266
+44270,Rittman,postal_code,None,OH,40.9567498,-81.7677645,OK,44270
+44272,Rootstown,postal_code,Portage County,OH,41.09295220000001,-81.1747498,OK,44272
+44273,Seville,postal_code,Medina County,OH,41.0123359,-81.84429340000001,OK,44273
+44274,Sharon Center,postal_code,Medina County,OH,41.0957967,-81.7335741,OK,44274
+44275,Spencer,postal_code,None,OH,41.11073590000001,-82.10606829999999,OK,44275
+44276,Sterling,postal_code,Wayne County,OH,40.9413645,-81.8333656,OK,44276
+44278,Tallmadge,postal_code,None,OH,41.0913196,-81.4169093,OK,44278
+44280,Valley City,postal_code,None,OH,41.2477743,-81.9207423,OK,44280
+44281,Wadsworth,postal_code,None,OH,41.046167,-81.7568253,OK,44281
+44282,Wadsworth,postal_code,Medina County,OH,41.0299661,-81.7300056,OK,44282
+44285,Wayland,postal_code,Portage County,OH,41.15908650000001,-81.0692562,OK,44285
+44286,Richfield,postal_code,Summit County,OH,41.2274088,-81.63638689999999,OK,44286
+44287,Congress,postal_code,None,OH,40.9503732,-82.10606829999999,OK,44287
+44288,Windham,postal_code,None,OH,41.2259035,-81.08650349999999,OK,44288
+44301,Akron,postal_code,Summit County,OH,41.04403860000001,-81.521241,OK,44301
+44302,Akron,postal_code,Summit County,OH,41.08893279999999,-81.5363297,OK,44302
+44303,Akron,postal_code,Summit County,OH,41.1025845,-81.5349581,OK,44303
+44304,Akron,postal_code,Summit County,OH,41.0801473,-81.5020328,OK,44304
+44305,Akron,postal_code,Summit County,OH,41.0745913,-81.46085599999999,OK,44305
+44306,Akron,postal_code,Summit County,OH,41.03619,-81.4828198,OK,44306
+44307,Akron,postal_code,Summit County,OH,41.068379,-81.54593,OK,44307
+44308,Akron,postal_code,Summit County,OH,41.08021540000001,-81.5198692,OK,44308
+44309,Akron,postal_code,Summit County,OH,41.0645305,-81.5191832,OK,44309
+44310,Akron,postal_code,Summit County,OH,41.1024492,-81.4992884,OK,44310
+44311,Akron,postal_code,Summit County,OH,41.06175760000001,-81.52398459999999,OK,44311
+44312,Akron,postal_code,None,OH,41.0329232,-81.4388858,OK,44312
+44313,Akron,postal_code,Summit County,OH,41.1426985,-81.57061089999999,OK,44313
+44314,Akron,postal_code,Summit County,OH,41.0364521,-81.55415789999999,OK,44314
+44315,Akron,postal_code,Summit County,OH,41.0285407,-81.4633516,OK,44315
+44316,Akron,postal_code,Summit County,OH,41.0593699,-81.4772131,OK,44316
+44317,Akron,postal_code,Summit County,OH,41.0527699,-81.5291264,OK,44317
+44319,New Franklin,postal_code,Summit County,OH,40.9793352,-81.52672820000001,OK,44319
+44320,Akron,postal_code,Summit County,OH,41.0789043,-81.5870604,OK,44320
+44321,Copley,postal_code,None,OH,41.0875099,-81.63638689999999,OK,44321
+44325,Akron,postal_code,Summit County,OH,41.0788974,-81.5147245,OK,44325
+44326,Akron,postal_code,Summit County,OH,41.0832921,-81.5163446,OK,44326
+44328,Akron,postal_code,Summit County,OH,41.0754325,-81.5207266,OK,44328
+44333,Fairlawn,postal_code,Summit County,OH,41.1567039,-81.6254283,OK,44333
+44334,Fairlawn,postal_code,Summit County,OH,41.14,-81.5699999,OK,44334
+44372,Akron,postal_code,Summit County,OH,41.11,-81.5699999,OK,44372
+44396,Akron,postal_code,Summit County,OH,41.0799744,-81.5199487,OK,44396
+44398,Fairlawn,postal_code,Summit County,OH,41.07,-81.52,OK,44398
+44401,Berlin Center,postal_code,Mahoning County,OH,41.0340131,-80.9318332,OK,44401
+44402,Bristolville,postal_code,Trumbull County,OH,41.3786297,-80.8765205,OK,44402
+44403,None,postal_code,Trumbull County,OH,41.2449469,-80.5771737,OK,44403
+44404,Burghill,postal_code,Trumbull County,OH,41.322731,-80.5549561,OK,44404
+44405,Campbell,postal_code,Mahoning County,OH,41.08175310000001,-80.59383299999999,OK,44405
+44406,Canfield,postal_code,Mahoning County,OH,41.0125457,-80.7879407,OK,44406
+44408,Columbiana,postal_code,None,OH,40.8742974,-80.68817179999999,OK,44408
+44410,Cortland,postal_code,Trumbull County,OH,41.36796469999999,-80.7436141,OK,44410
+44411,Deerfield,postal_code,Portage County,OH,41.0426937,-81.04234290000001,OK,44411
+44412,Diamond,postal_code,None,OH,41.1009529,-81.0202533,OK,44412
+44413,East Palestine,postal_code,Columbiana County,OH,40.8433557,-80.5549561,OK,44413
+44415,Elkton,postal_code,Columbiana County,OH,40.7626968,-80.6994268,OK,44415
+44416,Ellsworth,postal_code,Mahoning County,OH,41.0229894,-80.85765310000001,OK,44416
+44417,Farmdale,postal_code,Trumbull County,OH,41.43119799999999,-80.6659842,OK,44417
+44418,Fowler,postal_code,Trumbull County,OH,41.3064942,-80.5993854,OK,44418
+44420,Girard,postal_code,Trumbull County,OH,41.1742928,-80.68817179999999,OK,44420
+44422,Greenford,postal_code,Mahoning County,OH,40.9414704,-80.79086649999999,OK,44422
+44423,Hanoverton,postal_code,Columbiana County,OH,40.75150439999999,-80.9097127,OK,44423
+44424,Hartford,postal_code,Trumbull County,OH,41.3152878,-80.5702314,OK,44424
+44425,Hubbard,postal_code,None,OH,41.1543313,-80.5660657,OK,44425
+44427,Kensington,postal_code,None,OH,40.7147746,-80.9539475,OK,44427
+44428,Kinsman,postal_code,None,OH,41.4453942,-80.588948,OK,44428
+44429,Lake Milton,postal_code,None,OH,41.0929228,-80.98158169999999,OK,44429
+44430,Leavittsburg,postal_code,Trumbull County,OH,41.2518907,-80.9097127,OK,44430
+44431,Leetonia,postal_code,Columbiana County,OH,40.8395556,-80.75469799999999,OK,44431
+44432,Lisbon,postal_code,Columbiana County,OH,40.7281889,-80.7436141,OK,44432
+44436,Lowellville,postal_code,Mahoning County,OH,41.0617392,-80.5327324,OK,44436
+44437,McDonald,postal_code,None,OH,41.1624775,-80.72698539999999,OK,44437
+44438,Masury,postal_code,Trumbull County,OH,41.2611961,-80.5327324,OK,44438
+44439,Mesopotamia,postal_code,Trumbull County,OH,41.4584968,-80.95538309999999,OK,44439
+44440,Mineral Ridge,postal_code,None,OH,41.1469909,-80.7824012,OK,44440
+44441,Negley,postal_code,Columbiana County,OH,40.7429769,-80.5549561,OK,44441
+44442,NEW MIDDLETWN,postal_code,Mahoning County,OH,40.9635792,-80.5549561,OK,44442
+44443,NEW SPRINGFLD,postal_code,None,OH,40.9271822,-80.5993854,OK,44443
+44444,Newton Falls,postal_code,None,OH,41.1773654,-80.9760556,OK,44444
+44445,New Waterford,postal_code,Columbiana County,OH,40.8433518,-80.6160402,OK,44445
+44446,Niles,postal_code,Trumbull County,OH,41.1796788,-80.75469799999999,OK,44446
+44449,North Benton,postal_code,None,OH,40.9826441,-81.04234290000001,OK,44449
+44450,North Bloomfield,postal_code,Trumbull County,OH,41.4455192,-80.8433145,OK,44450
+44451,North Jackson,postal_code,Mahoning County,OH,41.0887293,-80.86545339999999,OK,44451
+44452,North Lima,postal_code,Mahoning County,OH,40.93262,-80.6659842,OK,44452
+44453,Orangeville,postal_code,Trumbull County,OH,41.33876,-80.5193199,OK,44453
+44454,Petersburg,postal_code,None,OH,40.9171514,-80.5382889,OK,44454
+44455,Rogers,postal_code,Columbiana County,OH,40.7822306,-80.6049374,OK,44455
+44460,Salem,postal_code,None,OH,40.8994485,-80.8765205,OK,44460
+44470,Southington,postal_code,None,OH,41.3060597,-80.9650023,OK,44470
+44471,Struthers,postal_code,Mahoning County,OH,41.051781,-80.59383299999999,OK,44471
+44473,None,postal_code,Trumbull County,OH,41.2413535,-80.6548882,OK,44473
+44481,Warren,postal_code,None,OH,41.1794649,-80.8765205,OK,44481
+44482,Warren,postal_code,Trumbull County,OH,41.2375926,-80.816243,OK,44482
+44483,Warren,postal_code,Trumbull County,OH,41.2629796,-80.7990185,OK,44483
+44484,Warren,postal_code,Trumbull County,OH,41.2376982,-80.7325287,OK,44484
+44485,Warren,postal_code,Trumbull County,OH,41.2420649,-80.8488498,OK,44485
+44486,Warren,postal_code,Trumbull County,OH,41.3,-80.84,OK,44486
+44490,WASHINGTONVLE,postal_code,None,OH,40.8983341,-80.7685508,OK,44490
+44491,West Farmington,postal_code,None,OH,41.3765727,-80.9760556,OK,44491
+44492,West Point,postal_code,Columbiana County,OH,40.7110573,-80.70654119999999,OK,44492
+44493,Winona,postal_code,Columbiana County,OH,40.8260332,-80.8955386,OK,44493
+44501,Youngstown,postal_code,Mahoning County,OH,41.0976439,-80.646912,OK,44501
+44502,Youngstown,postal_code,Mahoning County,OH,41.0753993,-80.63824129999999,OK,44502
+44503,Youngstown,postal_code,Mahoning County,OH,41.0990044,-80.65211390000002,OK,44503
+44504,Youngstown,postal_code,None,OH,41.12396409999999,-80.65211390000002,OK,44504
+44505,Youngstown,postal_code,None,OH,41.1071733,-80.5993854,OK,44505
+44506,Youngstown,postal_code,Mahoning County,OH,41.0944687,-80.6271415,OK,44506
+44507,Youngstown,postal_code,Mahoning County,OH,41.0744859,-80.6576623,OK,44507
+44509,Youngstown,postal_code,Mahoning County,OH,41.1098785,-80.6937177,OK,44509
+44510,Youngstown,postal_code,Mahoning County,OH,41.1280414,-80.6715317,OK,44510
+44511,Youngstown,postal_code,Mahoning County,OH,41.06992470000001,-80.6937177,OK,44511
+44512,Youngstown,postal_code,Mahoning County,OH,41.0326881,-80.6659842,OK,44512
+44513,Youngstown,postal_code,Mahoning County,OH,41.0243999,-80.67489929999999,OK,44513
+44514,Youngstown,postal_code,Mahoning County,OH,40.9890605,-80.621591,OK,44514
+44515,Youngstown,postal_code,Mahoning County,OH,41.0998327,-80.75469799999999,OK,44515
+44555,Youngstown,postal_code,Mahoning County,OH,41.1078563,-80.6458715,OK,44555
+44601,Alliance,postal_code,None,OH,40.9202113,-81.1416691,OK,44601
+44606,Apple Creek,postal_code,Wayne County,OH,40.7372192,-81.78963809999999,OK,44606
+44607,Augusta,postal_code,Carroll County,OH,40.6853018,-81.02321719999999,OK,44607
+44608,Beach City,postal_code,None,OH,40.6423837,-81.5925427,OK,44608
+44609,Beloit,postal_code,None,OH,40.897289,-80.9760556,OK,44609
+44610,Berlin,postal_code,Holmes County,OH,40.5608106,-81.79946970000002,OK,44610
+44611,Big Prairie,postal_code,None,OH,40.5957639,-82.0733985,OK,44611
+44612,Bolivar,postal_code,None,OH,40.6528484,-81.46085599999999,OK,44612
+44613,Brewster,postal_code,Stark County,OH,40.71100029999999,-81.6007655,OK,44613
+44614,New Franklin,postal_code,None,OH,40.8854571,-81.614468,OK,44614
+44615,Harlem Springs,postal_code,Carroll County,OH,40.5697538,-81.0312989,OK,44615
+44617,Charm,postal_code,Holmes County,OH,40.5065682,-81.784641,OK,44617
+44618,Dalton,postal_code,None,OH,40.7696197,-81.68020539999999,OK,44618
+44619,Damascus,postal_code,None,OH,40.9016387,-80.95567489999999,OK,44619
+44620,Dellroy,postal_code,Carroll County,OH,40.5741344,-81.2188355,OK,44620
+44621,Dennison,postal_code,None,OH,40.4191892,-81.30693149999999,OK,44621
+44622,Dover,postal_code,Tuscarawas County,OH,40.5443195,-81.49379929999999,OK,44622
+44624,Dundee,postal_code,None,OH,40.6068235,-81.65829939999999,OK,44624
+44625,East Rochester,postal_code,None,OH,40.6998528,-81.0202533,OK,44625
+44626,East Sparta,postal_code,None,OH,40.6882348,-81.3949264,OK,44626
+44627,Fredericksburg,postal_code,None,OH,40.65041069999999,-81.84429340000001,OK,44627
+44628,Glenmont,postal_code,None,OH,40.5223549,-82.1822399,OK,44628
+44629,Gnadenhutten,postal_code,Tuscarawas County,OH,40.3480833,-81.4388858,OK,44629
+44630,Greentown,postal_code,Stark County,OH,40.926388,-81.403059,OK,44630
+44632,Hartville,postal_code,None,OH,40.9704275,-81.27390729999999,OK,44632
+44633,Holmesville,postal_code,Holmes County,OH,40.6255361,-81.9207423,OK,44633
+44634,Homeworth,postal_code,None,OH,40.8276533,-81.0478643,OK,44634
+44636,Kidron,postal_code,Wayne County,OH,40.7350533,-81.74178119999999,OK,44636
+44637,Killbuck,postal_code,None,OH,40.46359,-82.06250519999999,OK,44637
+44638,Lakeville,postal_code,None,OH,40.6406191,-82.1387233,OK,44638
+44639,Leesville,postal_code,Carroll County,OH,40.45207449999999,-81.2093661,OK,44639
+44640,Limaville,postal_code,Stark County,OH,40.9813353,-81.1464943,OK,44640
+44641,Louisville,postal_code,Stark County,OH,40.8467103,-81.22985299999999,OK,44641
+44643,Magnolia,postal_code,None,OH,40.6396555,-81.2849169,OK,44643
+44644,Malvern,postal_code,Carroll County,OH,40.6916875,-81.1747498,OK,44644
+44645,Marshallville,postal_code,None,OH,40.913472,-81.7239979,OK,44645
+44646,Massillon,postal_code,Stark County,OH,40.8171314,-81.50477719999999,OK,44646
+44647,Massillon,postal_code,Stark County,OH,40.8018717,-81.57061089999999,OK,44647
+44648,Massillon,postal_code,Stark County,OH,40.7935081,-81.52183289999999,OK,44648
+44650,Maximo,postal_code,Stark County,OH,40.8728236,-81.1722748,OK,44650
+44651,Mechanicstown,postal_code,Carroll County,OH,40.6561279,-80.9760556,OK,44651
+44652,Middlebranch,postal_code,Stark County,OH,40.8950544,-81.32715309999999,OK,44652
+44653,Midvale,postal_code,Tuscarawas County,OH,40.4389587,-81.3786069,OK,44653
+44654,Millersburg,postal_code,None,OH,40.5323483,-81.8879884,OK,44654
+44656,Zoarville,postal_code,None,OH,40.5623037,-81.32893969999999,OK,44656
+44657,Minerva,postal_code,None,OH,40.7561569,-81.0975397,OK,44657
+44659,Mount Eaton,postal_code,Wayne County,OH,40.69476909999999,-81.70244699999999,OK,44659
+44660,Mount Hope,postal_code,Holmes County,OH,40.6239865,-81.7840849,OK,44660
+44661,Nashville,postal_code,Holmes County,OH,40.5966258,-82.11355309999999,OK,44661
+44662,Navarre,postal_code,None,OH,40.7088966,-81.5377013,OK,44662
+44663,NEW PHILA,postal_code,Tuscarawas County,OH,40.4602299,-81.4498717,OK,44663
+44665,North Georgetown,postal_code,Columbiana County,OH,40.8433283,-80.98555329999999,OK,44665
+44666,North Lawrence,postal_code,None,OH,40.8468781,-81.63638689999999,OK,44666
+44667,Orrville,postal_code,Wayne County,OH,40.845526,-81.7568253,OK,44667
+44669,Paris,postal_code,Stark County,OH,40.7905713,-81.1526976,OK,44669
+44670,Robertsville,postal_code,Stark County,OH,40.7626076,-81.1914571,OK,44670
+44671,Sandyville,postal_code,Tuscarawas County,OH,40.6423355,-81.3664079,OK,44671
+44672,Sebring,postal_code,Mahoning County,OH,40.9208056,-81.0202533,OK,44672
+44675,Sherrodsville,postal_code,None,OH,40.4874608,-81.27390729999999,OK,44675
+44676,Shreve,postal_code,None,OH,40.7029748,-82.0189155,OK,44676
+44677,Smithville,postal_code,Wayne County,OH,40.862585,-81.8552196,OK,44677
+44678,Somerdale,postal_code,Tuscarawas County,OH,40.5672444,-81.3592609,OK,44678
+44679,Stillwater,postal_code,Tuscarawas County,OH,40.32,-81.31,OK,44679
+44680,Strasburg,postal_code,Tuscarawas County,OH,40.5988279,-81.54867279999999,OK,44680
+44681,Sugarcreek,postal_code,None,OH,40.51673900000001,-81.6692532,OK,44681
+44682,Tuscarawas,postal_code,Tuscarawas County,OH,40.39660180000001,-81.40626209999999,OK,44682
+44683,Uhrichsville,postal_code,None,OH,40.3727245,-81.36194019999999,OK,44683
+44685,Uniontown,postal_code,None,OH,40.9695377,-81.3949264,OK,44685
+44687,Walnut Creek,postal_code,Holmes County,OH,40.539101,-81.7230252,OK,44687
+44688,Waynesburg,postal_code,None,OH,40.6984188,-81.26289609999999,OK,44688
+44689,Wilmot,postal_code,None,OH,40.6452423,-81.6665149,OK,44689
+44690,Winesburg,postal_code,Holmes County,OH,40.616332,-81.696629,OK,44690
+44691,Wooster,postal_code,Wayne County,OH,40.80216000000001,-81.9971108,OK,44691
+44693,Deersville,postal_code,Harrison County,OH,40.3103212,-81.1899071,OK,44693
+44695,Bowerston,postal_code,None,OH,40.4403193,-81.18577359999999,OK,44695
+44697,Zoar,postal_code,Tuscarawas County,OH,40.615862,-81.42103039999999,OK,44697
+44699,Tippecanoe,postal_code,None,OH,40.2477948,-81.3179364,OK,44699
+44701,Canton,postal_code,Stark County,OH,40.7960548,-81.3743708,OK,44701
+44702,Canton,postal_code,Stark County,OH,40.7988285,-81.3770606,OK,44702
+44703,Canton,postal_code,Stark County,OH,40.8104446,-81.3811839,OK,44703
+44704,Canton,postal_code,Stark County,OH,40.7993928,-81.3344408,OK,44704
+44705,Canton,postal_code,Stark County,OH,40.82953699999999,-81.3344408,OK,44705
+44706,Canton,postal_code,Stark County,OH,40.7502727,-81.4169093,OK,44706
+44707,Canton,postal_code,Stark County,OH,40.7453298,-81.3509416,OK,44707
+44708,Canton,postal_code,Stark County,OH,40.8122437,-81.4388858,OK,44708
+44709,Canton,postal_code,Stark County,OH,40.8437144,-81.3894297,OK,44709
+44710,Canton,postal_code,Stark County,OH,40.7886028,-81.4251512,OK,44710
+44711,Canton,postal_code,Stark County,OH,40.8266697,-81.3798095,OK,44711
+44714,Canton,postal_code,Stark County,OH,40.8512811,-81.3564411,OK,44714
+44718,JACKSN BELDEN,postal_code,Stark County,OH,40.8540649,-81.46085599999999,OK,44718
+44720,Canton,postal_code,None,OH,40.9034426,-81.4498717,OK,44720
+44721,Canton,postal_code,Stark County,OH,40.8843453,-81.32893969999999,OK,44721
+44730,East Canton,postal_code,None,OH,40.7696817,-81.27390729999999,OK,44730
+44735,Canton,postal_code,Stark County,OH,40.84,-81.44,OK,44735
+44750,Canton,postal_code,Stark County,OH,40.7849996,-81.4189699,OK,44750
+44767,Canton,postal_code,Stark County,OH,40.86799329999999,-81.4203436,OK,44767
+44799,Canton,postal_code,Stark County,OH,40.83,-81.39,OK,44799
+44802,Alvada,postal_code,None,OH,41.0425109,-83.41098339999999,OK,44802
+44804,Arcadia,postal_code,Hancock County,OH,41.109967,-83.53900019999999,OK,44804
+44805,Ashland,postal_code,None,OH,40.9062768,-82.34518899999999,OK,44805
+44807,Carrothers,postal_code,None,OH,41.0413536,-82.8855961,OK,44807
+44809,Bascom,postal_code,Seneca County,OH,41.1319946,-83.27802779999999,OK,44809
+44811,Bellevue,postal_code,None,OH,41.2416432,-82.8855961,OK,44811
+44813,Bellville,postal_code,None,OH,40.576404,-82.5402275,OK,44813
+44814,Berlin Heights,postal_code,Erie County,OH,41.3260699,-82.48610529999999,OK,44814
+44815,Bettsville,postal_code,Seneca County,OH,41.2440286,-83.235879,OK,44815
+44816,Birmingham,postal_code,Erie County,OH,41.330332,-82.360607,OK,44816
+44817,Bloomdale,postal_code,None,OH,41.2019433,-83.57096399999999,OK,44817
+44818,Bloomville,postal_code,None,OH,41.0503543,-83.0141439,OK,44818
+44820,Bucyrus,postal_code,Crawford County,OH,40.86445519999999,-82.95015579999999,OK,44820
+44822,Butler,postal_code,None,OH,40.5679226,-82.4102628,OK,44822
+44824,Castalia,postal_code,None,OH,41.3867,-82.8101975,OK,44824
+44825,Chatfield,postal_code,Crawford County,OH,40.95262520000001,-82.9427615,OK,44825
+44826,Collins,postal_code,None,OH,41.2462053,-82.48610529999999,OK,44826
+44827,Crestline,postal_code,None,OH,40.832297,-82.7562895,OK,44827
+44828,Flat Rock,postal_code,Seneca County,OH,41.2341433,-82.8603605,OK,44828
+44830,Fostoria,postal_code,None,OH,41.1522215,-83.4003037,OK,44830
+44833,Galion,postal_code,None,OH,40.7140659,-82.79941939999999,OK,44833
+44836,Green Springs,postal_code,None,OH,41.2428057,-83.0683519,OK,44836
+44837,Greenwich,postal_code,None,OH,41.016668,-82.49693309999999,OK,44837
+44838,Hayesville,postal_code,Ashland County,OH,40.7731928,-82.26121549999999,OK,44838
+44839,Shinrock,postal_code,Erie County,OH,41.3822571,-82.5834947,OK,44839
+44840,Jeromesville,postal_code,Ashland County,OH,40.795495,-82.1931149,OK,44840
+44841,Kansas,postal_code,None,OH,41.2592513,-83.3468784,OK,44841
+44842,Loudonville,postal_code,None,OH,40.6775235,-82.2365981,OK,44842
+44843,Lucas,postal_code,None,OH,40.6890949,-82.4102628,OK,44843
+44844,McCutchenville,postal_code,None,OH,40.990621,-83.25939149999999,OK,44844
+44845,Melmore,postal_code,Seneca County,OH,41.0245998,-83.11027399999999,OK,44845
+44846,Milan,postal_code,None,OH,41.314531,-82.6159271,OK,44846
+44847,Monroeville,postal_code,None,OH,41.2308425,-82.713132,OK,44847
+44848,Nankin,postal_code,Ashland County,OH,40.9211448,-82.28107279999999,OK,44848
+44849,Nevada,postal_code,None,OH,40.81569890000001,-83.1434573,OK,44849
+44850,New Haven,postal_code,Huron County,OH,41.0341932,-82.68142069999999,OK,44850
+44851,New London,postal_code,None,OH,41.091172,-82.4102628,OK,44851
+44853,New Riegel,postal_code,Seneca County,OH,41.0564211,-83.3041061,OK,44853
+44854,New Washington,postal_code,None,OH,40.9583695,-82.8425216,OK,44854
+44855,North Fairfield,postal_code,Huron County,OH,41.093153,-82.5943072,OK,44855
+44856,North Robinson,postal_code,Crawford County,OH,40.7948794,-82.85766819999999,OK,44856
+44857,Norwalk,postal_code,None,OH,41.18255449999999,-82.5834947,OK,44857
+44859,Nova,postal_code,None,OH,41.0052241,-82.32348429999999,OK,44859
+44860,Oceola,postal_code,Crawford County,OH,40.8450976,-83.09283769999999,OK,44860
+44861,Old Fort,postal_code,Seneca County,OH,41.241297,-83.1474783,OK,44861
+44862,Ontario,postal_code,Richland County,OH,40.7605046,-82.6474818,OK,44862
+44864,Perrysville,postal_code,None,OH,40.7236792,-82.32348429999999,OK,44864
+44865,Plymouth,postal_code,None,OH,40.9876799,-82.669947,OK,44865
+44866,Polk,postal_code,Ashland County,OH,40.9053684,-82.1822399,OK,44866
+44867,Republic,postal_code,Seneca County,OH,41.1388267,-83.0039075,OK,44867
+44870,Sandusky,postal_code,Erie County,OH,41.4091138,-82.6915429,OK,44870
+44871,Sandusky,postal_code,Erie County,OH,41.4349442,-82.7029608,OK,44871
+44874,Savannah,postal_code,Ashland County,OH,40.9646141,-82.3634972,OK,44874
+44875,Shelby,postal_code,None,OH,40.9073141,-82.669947,OK,44875
+44878,Shiloh,postal_code,None,OH,40.9471128,-82.50775929999999,OK,44878
+44880,Sullivan,postal_code,None,OH,41.0287405,-82.2257298,OK,44880
+44881,Sulphur Springs,postal_code,Crawford County,OH,40.8710207,-82.8803604,OK,44881
+44882,Sycamore,postal_code,None,OH,40.9364775,-83.1434573,OK,44882
+44883,Tiffin,postal_code,Seneca County,OH,41.1397548,-83.1863358,OK,44883
+44887,Tiro,postal_code,Crawford County,OH,40.9436075,-82.76707449999999,OK,44887
+44888,Willard,postal_code,Huron County,OH,41.0439575,-82.7157936,OK,44888
+44889,Wakeman,postal_code,None,OH,41.2483368,-82.36688699999999,OK,44889
+44890,Willard,postal_code,Huron County,OH,41.0706758,-82.713132,OK,44890
+44901,Mansfield,postal_code,Richland County,OH,40.7635118,-82.5135945,OK,44901
+44902,Mansfield,postal_code,Richland County,OH,40.75866389999999,-82.5104655,OK,44902
+44903,Ontario,postal_code,None,OH,40.8278706,-82.52940650000001,OK,44903
+44904,Lexington,postal_code,None,OH,40.6600092,-82.5834947,OK,44904
+44905,Mansfield,postal_code,Richland County,OH,40.7632194,-82.4644445,OK,44905
+44906,Ontario,postal_code,Richland County,OH,40.7702489,-82.57268049999999,OK,44906
+44907,Mansfield,postal_code,Richland County,OH,40.7318256,-82.5239953,OK,44907
+45001,Addyston,postal_code,Hamilton County,OH,39.1400554,-84.714576,OK,45001
+45002,Cleves,postal_code,Hamilton County,OH,39.1909261,-84.7211074,OK,45002
+45003,College Corner,postal_code,None,OH,39.5865903,-84.7837717,OK,45003
+45004,Collinsville,postal_code,Butler County,OH,39.5144749,-84.6083353,OK,45004
+45005,Middletown,postal_code,Warren County,OH,39.543358,-84.3016021,OK,45005
+45011,Hamilton,postal_code,Butler County,OH,39.4296413,-84.5117321,OK,45011
+45012,Hamilton,postal_code,Butler County,OH,39.3987855,-84.5640775,OK,45012
+45013,Ross,postal_code,Butler County,OH,39.4049854,-84.6479124,OK,45013
+45014,Hamilton,postal_code,Butler County,OH,39.3282373,-84.5536678,OK,45014
+45015,None,postal_code,Butler County,OH,39.3713327,-84.53532469999999,OK,45015
+45018,Hamilton,postal_code,Butler County,OH,39.35,-84.56,OK,45018
+45030,Harrison,postal_code,Hamilton County,OH,39.2667628,-84.79420909999999,OK,45030
+45032,Harveysburg,postal_code,Warren County,OH,39.502788,-84.0102976,OK,45032
+45033,Hooven,postal_code,Hamilton County,OH,39.1774861,-84.7681121,OK,45033
+45034,KINGS ISLAND,postal_code,Warren County,OH,39.35741429999999,-84.24631880000001,OK,45034
+45036,Lebanon,postal_code,Warren County,OH,39.445842,-84.20679919999999,OK,45036
+45039,Maineville,postal_code,Warren County,OH,39.33376,-84.238417,OK,45039
+45040,Mason,postal_code,Warren County,OH,39.35857590000001,-84.3226488,OK,45040
+45041,Miamitown,postal_code,Hamilton County,OH,39.2144716,-84.7044507,OK,45041
+45042,Middletown,postal_code,None,OH,39.5494703,-84.42777029999999,OK,45042
+45044,None,postal_code,None,OH,39.5038205,-84.3939224,OK,45044
+45050,LIBERTY TNSP,postal_code,None,OH,39.4486879,-84.3699767,OK,45050
+45051,Delhi,postal_code,Hamilton County,OH,39.1,-84.64999999999999,OK,45051
+45052,North Bend,postal_code,Hamilton County,OH,39.1324225,-84.8046446,OK,45052
+45053,Okeana,postal_code,Butler County,OH,39.3495768,-84.79420909999999,OK,45053
+45054,Oregonia,postal_code,Warren County,OH,39.4286082,-84.0695961,OK,45054
+45055,Overpeck,postal_code,Butler County,OH,39.4508923,-84.514439,OK,45055
+45056,Oxford,postal_code,Butler County,OH,39.4717184,-84.75244819999999,OK,45056
+45061,Ross,postal_code,Butler County,OH,39.31363899999999,-84.6490198,OK,45061
+45062,Seven Mile,postal_code,Butler County,OH,39.4822501,-84.5533403,OK,45062
+45063,Shandon,postal_code,Butler County,OH,39.3266548,-84.7151552,OK,45063
+45064,Somerville,postal_code,None,OH,39.5583574,-84.6165146,OK,45064
+45065,South Lebanon,postal_code,Warren County,OH,39.3686376,-84.21207,OK,45065
+45066,Springboro,postal_code,Warren County,OH,39.5598101,-84.21734029999999,OK,45066
+45067,Trenton,postal_code,Butler County,OH,39.4689559,-84.46976629999999,OK,45067
+45068,Waynesville,postal_code,None,OH,39.5198309,-84.0378894,OK,45068
+45069,None,postal_code,Butler County,OH,39.341965,-84.406761,OK,45069
+45070,West Elkton,postal_code,Preble County,OH,39.58500009999999,-84.5523578,OK,45070
+45071,Olde West Chester,postal_code,Butler County,OH,39.33,-84.41000000000001,OK,45071
+45101,Aberdeen,postal_code,Brown County,OH,38.6852536,-83.75178509999999,OK,45101
+45102,Amelia,postal_code,Clermont County,OH,39.02066680000001,-84.1962563,OK,45102
+45103,Batavia,postal_code,Clermont County,OH,39.1125485,-84.16461629999999,OK,45103
+45105,Bentonville,postal_code,Adams County,OH,38.7506181,-83.61272559999999,OK,45105
+45106,Bethel,postal_code,None,OH,38.9857886,-84.1224036,OK,45106
+45107,Blanchester,postal_code,None,OH,39.2991686,-83.96384259999999,OK,45107
+45111,Camp Dennison,postal_code,None,OH,39.1987913,-84.28318,OK,45111
+45112,Chilo,postal_code,Clermont County,OH,38.7934015,-84.1402157,OK,45112
+45113,Clarksville,postal_code,None,OH,39.4036166,-83.985008,OK,45113
+45114,Cuba,postal_code,Clinton County,OH,39.3614351,-83.8639955,OK,45114
+45115,Decatur,postal_code,Brown County,OH,38.8147098,-83.70430379999999,OK,45115
+45118,Fayetteville,postal_code,None,OH,39.1825308,-83.91089680000002,OK,45118
+45119,Feesburg,postal_code,Brown County,OH,38.8779951,-83.999574,OK,45119
+45120,Felicity,postal_code,None,OH,38.8170923,-84.0801613,OK,45120
+45121,CLERMONT CNTY,postal_code,Brown County,OH,38.8500753,-83.91089680000002,OK,45121
+45122,Goshen,postal_code,None,OH,39.234826,-84.1224036,OK,45122
+45123,Ross County,postal_code,None,OH,39.3615952,-83.4003037,OK,45123
+45130,Hamersville,postal_code,None,OH,38.89611060000001,-83.99558789999999,OK,45130
+45131,Higginsport,postal_code,None,OH,38.7890589,-83.96516559999999,OK,45131
+45132,Highland,postal_code,Highland County,OH,39.3436777,-83.59958449999999,OK,45132
+45133,Hillsboro,postal_code,None,OH,39.1838139,-83.54965659999999,OK,45133
+45135,HGLND COUNTY,postal_code,None,OH,39.3687882,-83.528342,OK,45135
+45140,Montgomery,postal_code,None,OH,39.2411393,-84.2489525,OK,45140
+45142,Lynchburg,postal_code,None,OH,39.2292946,-83.81547909999999,OK,45142
+45144,Manchester,postal_code,None,OH,38.7114171,-83.6561215,OK,45144
+45146,Martinsville,postal_code,Clinton County,OH,39.3120672,-83.81547909999999,OK,45146
+45147,Miamiville,postal_code,Clermont County,OH,39.2128903,-84.29995749999999,OK,45147
+45148,Midland,postal_code,None,OH,39.3045309,-83.8685072,OK,45148
+45150,Day Heights,postal_code,Clermont County,OH,39.1680808,-84.238417,OK,45150
+45152,Morrow,postal_code,Warren County,OH,39.3589783,-84.1224036,OK,45152
+45153,Moscow,postal_code,Clermont County,OH,38.8651194,-84.20679919999999,OK,45153
+45154,Mount Orab,postal_code,None,OH,39.0580624,-83.91089680000002,OK,45154
+45155,Mowrystown,postal_code,Highland County,OH,39.0420037,-83.7544403,OK,45155
+45156,Neville,postal_code,Clermont County,OH,38.81104089999999,-84.21305819999999,OK,45156
+45157,New Richmond,postal_code,Clermont County,OH,38.96037159999999,-84.238417,OK,45157
+45158,Newtonsville,postal_code,Clermont County,OH,39.1801936,-84.09204489999999,OK,45158
+45159,New Vienna,postal_code,None,OH,39.3368134,-83.6986568,OK,45159
+45160,Owensville,postal_code,Clermont County,OH,39.1226263,-84.13588460000001,OK,45160
+45162,Pleasant Plain,postal_code,None,OH,39.2632112,-84.0695961,OK,45162
+45164,Port William,postal_code,None,OH,39.5558829,-83.7916015,OK,45164
+45166,Reesville,postal_code,Clinton County,OH,39.4823782,-83.6763656,OK,45166
+45167,Ripley,postal_code,Brown County,OH,38.7599951,-83.7836403,OK,45167
+45168,Russellville,postal_code,Brown County,OH,38.8532231,-83.7730237,OK,45168
+45169,CLINTON CNTY,postal_code,None,OH,39.4996294,-83.6561215,OK,45169
+45171,Sardinia,postal_code,None,OH,39.0098089,-83.7836403,OK,45171
+45172,Sinking Spring,postal_code,Highland County,OH,39.0748537,-83.3856162,OK,45172
+45174,Terrace Park,postal_code,Hamilton County,OH,39.1586085,-84.3094955,OK,45174
+45176,Williamsburg,postal_code,None,OH,39.0744627,-84.0273168,OK,45176
+45177,Wilmington,postal_code,Clinton County,OH,39.4457756,-83.804868,OK,45177
+45201,Cincinnati,postal_code,Hamilton County,OH,39.10663539999999,-84.53632259999999,OK,45201
+45202,Cincinnati,postal_code,Hamilton County,OH,39.1031971,-84.5064881,OK,45202
+45203,Cincinnati,postal_code,Hamilton County,OH,39.1019553,-84.53532469999999,OK,45203
+45204,Cincinnati,postal_code,Hamilton County,OH,39.0930395,-84.56676650000001,OK,45204
+45205,Cincinnati,postal_code,Hamilton County,OH,39.1066278,-84.5798623,OK,45205
+45206,Cincinnati,postal_code,Hamilton County,OH,39.130628,-84.4828838,OK,45206
+45207,Cincinnati,postal_code,Hamilton County,OH,39.1405079,-84.47239,OK,45207
+45208,Cincinnati,postal_code,Hamilton County,OH,39.13357329999999,-84.4356468,OK,45208
+45209,Cincinnati,postal_code,Hamilton County,OH,39.1511025,-84.42251859999999,OK,45209
+45211,Cincinnati,postal_code,Hamilton County,OH,39.1654029,-84.6165146,OK,45211
+45212,Cincinnati,postal_code,Hamilton County,OH,39.1629772,-84.4540213,OK,45212
+45213,Cincinnati,postal_code,Hamilton County,OH,39.1822152,-84.42251859999999,OK,45213
+45214,Cincinnati,postal_code,Hamilton County,OH,39.11728189999999,-84.5300827,OK,45214
+45215,Wyoming,postal_code,Hamilton County,OH,39.2414664,-84.46976629999999,OK,45215
+45216,Cincinnati,postal_code,Hamilton County,OH,39.2059442,-84.485507,OK,45216
+45217,Cincinnati,postal_code,Hamilton County,OH,39.1676821,-84.498621,OK,45217
+45218,None,postal_code,Hamilton County,OH,39.2671237,-84.5195974,OK,45218
+45219,Cincinnati,postal_code,Hamilton County,OH,39.1269228,-84.514354,OK,45219
+45220,Cincinnati,postal_code,Hamilton County,OH,39.14520570000001,-84.5169757,OK,45220
+45221,Cincinnati,postal_code,Hamilton County,OH,39.1325305,-84.5095304,OK,45221
+45222,Cincinnati,postal_code,Hamilton County,OH,39.1973781,-84.4581924,OK,45222
+45223,Cincinnati,postal_code,Hamilton County,OH,39.1674274,-84.5484275,OK,45223
+45224,North College Hill,postal_code,Hamilton County,OH,39.2079206,-84.5274616,OK,45224
+45225,Cincinnati,postal_code,Hamilton County,OH,39.1471688,-84.5589076,OK,45225
+45226,Cincinnati,postal_code,None,OH,39.1095952,-84.42251859999999,OK,45226
+45227,Cincinnati,postal_code,Hamilton County,OH,39.1495912,-84.39099910000002,OK,45227
+45229,Cincinnati,postal_code,Hamilton County,OH,39.1540971,-84.485507,OK,45229
+45230,Mount WASHING,postal_code,Hamilton County,OH,39.0714909,-84.38574419999999,OK,45230
+45231,Mount Healthy,postal_code,Hamilton County,OH,39.2444348,-84.5327038,OK,45231
+45232,Cincinnati,postal_code,Hamilton County,OH,39.1787938,-84.514354,OK,45232
+45233,Cincinnati,postal_code,Hamilton County,OH,39.1258197,-84.6583745,OK,45233
+45234,Cincinnati,postal_code,Hamilton County,OH,39.11573449999999,-84.53860069999999,OK,45234
+45235,Cincinnati,postal_code,Hamilton County,OH,39.28,-84.39999999999999,OK,45235
+45236,Cincinnati,postal_code,Hamilton County,OH,39.2123057,-84.4015075,OK,45236
+45237,Cincinnati,postal_code,Hamilton County,OH,39.1940851,-84.4540213,OK,45237
+45238,Cincinnati,postal_code,Hamilton County,OH,39.1031327,-84.6165146,OK,45238
+45239,Groesbeck,postal_code,Hamilton County,OH,39.2000014,-84.5798623,OK,45239
+45240,None,postal_code,Hamilton County,OH,39.2858588,-84.5327038,OK,45240
+45241,None,postal_code,None,OH,39.2798828,-84.406761,OK,45241
+45242,Cincinnati,postal_code,Hamilton County,OH,39.2364358,-84.3647199,OK,45242
+45243,Cincinnati,postal_code,Hamilton County,OH,39.1939687,-84.3436881,OK,45243
+45244,Cincinnati,postal_code,None,OH,39.130723,-84.3226488,OK,45244
+45245,Cincinnati,postal_code,Clermont County,OH,39.0663831,-84.2805478,OK,45245
+45246,Glendale,postal_code,None,OH,39.2828895,-84.46976629999999,OK,45246
+45247,Groesbeck,postal_code,Hamilton County,OH,39.2295369,-84.6583745,OK,45247
+45248,Cincinnati,postal_code,Hamilton County,OH,39.1655524,-84.66071439999999,OK,45248
+45249,Cincinnati,postal_code,None,OH,39.2708955,-84.3279093,OK,45249
+45250,Cincinnati,postal_code,Hamilton County,OH,39.10663539999999,-84.53632259999999,OK,45250
+45251,Groesbeck,postal_code,Hamilton County,OH,39.2730168,-84.5903367,OK,45251
+45252,None,postal_code,Hamilton County,OH,39.2700155,-84.63744840000001,OK,45252
+45253,Groesbeck,postal_code,Hamilton County,OH,39.2299098,-84.5898239,OK,45253
+45254,Cincinnati,postal_code,Hamilton County,OH,39.0745039,-84.33211,OK,45254
+45255,Cincinnati,postal_code,None,OH,39.0684387,-84.3226488,OK,45255
+45258,Cincinnati,postal_code,Hamilton County,OH,39.1418545,-84.6254996,OK,45258
+45262,Cincinnati,postal_code,Hamilton County,OH,39.270762,-84.4129574,OK,45262
+45263,Cincinnati,postal_code,Hamilton County,OH,39.11,-84.53999999999999,OK,45263
+45264,Cincinnati,postal_code,Hamilton County,OH,39.14,-84.53999999999999,OK,45264
+45267,Cincinnati,postal_code,Hamilton County,OH,39.1367664,-84.50229879999999,OK,45267
+45268,Cincinnati,postal_code,Hamilton County,OH,39.1354868,-84.50957939999999,OK,45268
+45269,Cincinnati,postal_code,Hamilton County,OH,39.11,-84.5,OK,45269
+45270,Cincinnati,postal_code,Hamilton County,OH,39.11,-84.53999999999999,OK,45270
+45271,Cincinnati,postal_code,Hamilton County,OH,39.11,-84.53999999999999,OK,45271
+45273,Cincinnati,postal_code,Hamilton County,OH,39.11,-84.53999999999999,OK,45273
+45274,Cincinnati,postal_code,Hamilton County,OH,39.14,-84.53999999999999,OK,45274
+45275,Cincinnati,postal_code,Boone County,KY,39.04,-84.66,OK,45275
+45277,Cincinnati,postal_code,Hamilton County,OH,39.1485648,-84.4439795,OK,45277
+45280,Cincinnati,postal_code,Hamilton County,OH,39.1599999,-84.4599999,OK,45280
+45296,Cincinnati,postal_code,Hamilton County,OH,39.14,-84.53999999999999,OK,45296
+45298,Cincinnati,postal_code,Hamilton County,OH,39.0995141,-84.51591789999999,OK,45298
+45299,Cincinnati,postal_code,Hamilton County,OH,39.1031339,-84.50839859999999,OK,45299
+45301,None,postal_code,Greene County,OH,39.7113842,-84.0226907,OK,45301
+45302,Anna,postal_code,Shelby County,OH,40.3882098,-84.20679919999999,OK,45302
+45303,Ansonia,postal_code,Darke County,OH,40.216496,-84.6583745,OK,45303
+45304,Gordon,postal_code,None,OH,39.9965997,-84.54318669999999,OK,45304
+45305,SUGARCRK Township,postal_code,Greene County,OH,39.6304021,-84.0854432,OK,45305
+45306,Botkins,postal_code,None,OH,40.4566551,-84.15406589999999,OK,45306
+45307,Bowersville,postal_code,Greene County,OH,39.5798831,-83.7232343,OK,45307
+45308,Bradford,postal_code,None,OH,40.1153009,-84.4592701,OK,45308
+45309,Brookville,postal_code,Montgomery County,OH,39.8266494,-84.41726659999999,OK,45309
+45310,Burkettsville,postal_code,None,OH,40.3526743,-84.6433346,OK,45310
+45311,Camden,postal_code,Preble County,OH,39.6328845,-84.6688348,OK,45311
+45312,Casstown,postal_code,None,OH,40.055696,-84.0801613,OK,45312
+45314,Cedarville,postal_code,Greene County,OH,39.7533974,-83.7836403,OK,45314
+45315,Clayton,postal_code,Montgomery County,OH,39.8587351,-84.33842899999999,OK,45315
+45316,Clifton,postal_code,Greene County,OH,39.7950578,-83.82509379999999,OK,45316
+45317,Conover,postal_code,None,OH,40.1255594,-84.0484601,OK,45317
+45318,Covington,postal_code,Miami County,OH,40.1209543,-84.3647199,OK,45318
+45319,Donnelsville,postal_code,Clark County,OH,39.9168199,-83.9413462,OK,45319
+45320,Eaton,postal_code,Preble County,OH,39.7348022,-84.6479124,OK,45320
+45321,Eldorado,postal_code,Preble County,OH,39.8697287,-84.6792931,OK,45321
+45322,Englewood,postal_code,None,OH,39.893846,-84.3226488,OK,45322
+45323,Enon,postal_code,Clark County,OH,39.8487314,-83.93737540000001,OK,45323
+45324,Beavercreek,postal_code,None,OH,39.816412,-84.0061661,OK,45324
+45325,Germantown,postal_code,Montgomery County,OH,39.6936111,-84.42777029999999,OK,45325
+45326,Fletcher,postal_code,Miami County,OH,40.1481323,-84.0907246,OK,45326
+45327,Germantown,postal_code,None,OH,39.621079,-84.41726659999999,OK,45327
+45328,Gettysburg,postal_code,Darke County,OH,40.1124889,-84.4940315,OK,45328
+45330,Gratis,postal_code,Preble County,OH,39.6485915,-84.5290998,OK,45330
+45331,Greenville,postal_code,Darke County,OH,40.0628524,-84.6479124,OK,45331
+45332,Hollansburg,postal_code,Darke County,OH,39.99301450000001,-84.7994271,OK,45332
+45333,Houston,postal_code,Shelby County,OH,40.231628,-84.3331694,OK,45333
+45334,Jackson Center,postal_code,None,OH,40.46087310000001,-84.0378894,OK,45334
+45335,Jamestown,postal_code,None,OH,39.6278003,-83.7411631,OK,45335
+45336,Kettlersville,postal_code,Shelby County,OH,40.4432261,-84.26606869999999,OK,45336
+45337,Laura,postal_code,None,OH,39.97986760000001,-84.406761,OK,45337
+45338,Lewisburg,postal_code,Preble County,OH,39.8326349,-84.54318669999999,OK,45338
+45339,Ludlow Falls,postal_code,Miami County,OH,39.9972759,-84.3436881,OK,45339
+45340,Maplewood,postal_code,None,OH,40.3796281,-84.0378894,OK,45340
+45341,Medway,postal_code,None,OH,39.8779301,-84.0061661,OK,45341
+45342,Miamisburg,postal_code,None,OH,39.6128751,-84.2489525,OK,45342
+45343,Miamisburg,postal_code,Montgomery County,OH,39.64,-84.28999999999999,OK,45343
+45344,New Carlisle,postal_code,None,OH,39.9695432,-83.99558789999999,OK,45344
+45345,New Lebanon,postal_code,Montgomery County,OH,39.7337228,-84.406761,OK,45345
+45346,New Madison,postal_code,Darke County,OH,39.9741205,-84.7211074,OK,45346
+45347,New Paris,postal_code,None,OH,39.8833139,-84.75244819999999,OK,45347
+45348,Rossburg,postal_code,Darke County,OH,40.338742,-84.6583745,OK,45348
+45349,North Hampton,postal_code,Clark County,OH,39.9913849,-83.9391954,OK,45349
+45350,North Star,postal_code,Darke County,OH,40.3258816,-84.57331479999999,OK,45350
+45351,Osgood,postal_code,Darke County,OH,40.34043150000001,-84.4941954,OK,45351
+45352,Palestine,postal_code,Darke County,OH,40.0499893,-84.74396170000001,OK,45352
+45353,Pemberton,postal_code,Shelby County,OH,40.2945173,-84.0329337,OK,45353
+45354,Phillipsburg,postal_code,Montgomery County,OH,39.904691,-84.4008508,OK,45354
+45356,Piqua,postal_code,None,OH,40.1458908,-84.2489525,OK,45356
+45358,Pitsburg,postal_code,Darke County,OH,39.98753809999999,-84.4868185,OK,45358
+45359,Pleasant Hill,postal_code,Miami County,OH,40.0586341,-84.3436881,OK,45359
+45360,Port Jefferson,postal_code,Shelby County,OH,40.3299308,-84.0910547,OK,45360
+45361,Potsdam,postal_code,Miami County,OH,39.9619141,-84.4192362,OK,45361
+45362,Rossburg,postal_code,Darke County,OH,40.2766836,-84.63744840000001,OK,45362
+45363,Russia,postal_code,Shelby County,OH,40.2453961,-84.406761,OK,45363
+45365,Sidney,postal_code,Shelby County,OH,40.2719585,-84.17896870000001,OK,45365
+45367,Sidney,postal_code,Shelby County,OH,40.2749827,-84.1882655,OK,45367
+45368,South Charleston,postal_code,None,OH,39.8479022,-83.63484299999999,OK,45368
+45369,South Vienna,postal_code,None,OH,39.9491278,-83.6135572,OK,45369
+45370,SUGARCRK Township,postal_code,Greene County,OH,39.6119922,-84.0273168,OK,45370
+45371,Tipp City,postal_code,None,OH,39.9350959,-84.1224036,OK,45371
+45372,Tremont City,postal_code,Clark County,OH,40.011739,-83.8373587,OK,45372
+45373,Troy,postal_code,Miami County,OH,40.0620944,-84.20679919999999,OK,45373
+45374,Troy,postal_code,Miami County,OH,40.0355561,-84.21585809999999,OK,45374
+45377,Vandalia,postal_code,Montgomery County,OH,39.8886463,-84.21734029999999,OK,45377
+45378,Verona,postal_code,Preble County,OH,39.9030416,-84.4868185,OK,45378
+45380,Versailles,postal_code,Darke County,OH,40.2397291,-84.5012435,OK,45380
+45381,West Alexandria,postal_code,None,OH,39.7093706,-84.54318669999999,OK,45381
+45382,West Manchester,postal_code,None,OH,39.907848,-84.6165146,OK,45382
+45383,West Milton,postal_code,Miami County,OH,39.955308,-84.3226488,OK,45383
+45384,Wilberforce,postal_code,Greene County,OH,39.7060419,-83.883082,OK,45384
+45385,SUGARCRK Township,postal_code,Greene County,OH,39.6779549,-83.91089680000002,OK,45385
+45387,Yellow Springs,postal_code,None,OH,39.8011942,-83.91089680000002,OK,45387
+45388,Yorkshire,postal_code,None,OH,40.3095309,-84.46976629999999,OK,45388
+45389,CHRISTIANSBRG,postal_code,Champaign County,OH,40.0560758,-84.0253342,OK,45389
+45390,Dayton,postal_code,Darke County,OH,40.2105956,-84.75244819999999,OK,45390
+45401,Dayton,postal_code,Montgomery County,OH,39.7587998,-84.1787904,OK,45401
+45402,Dayton,postal_code,Montgomery County,OH,39.7574433,-84.2094347,OK,45402
+45403,Dayton,postal_code,Montgomery County,OH,39.7672403,-84.14878999999999,OK,45403
+45404,Dayton,postal_code,Montgomery County,OH,39.7883044,-84.1593413,OK,45404
+45405,Dayton,postal_code,Montgomery County,OH,39.7909447,-84.21207,OK,45405
+45406,Trotwood,postal_code,Montgomery County,OH,39.7822504,-84.24368489999999,OK,45406
+45409,Dayton,postal_code,Montgomery County,OH,39.7206965,-84.1936203,OK,45409
+45410,Dayton,postal_code,Montgomery County,OH,39.7496668,-84.1567036,OK,45410
+45412,Dayton,postal_code,Montgomery County,OH,39.76,-84.17999999999999,OK,45412
+45413,Dayton,postal_code,Montgomery County,OH,39.82257389999999,-84.191559,OK,45413
+45414,Dayton,postal_code,Montgomery County,OH,39.8476384,-84.21734029999999,OK,45414
+45415,Dayton,postal_code,Montgomery County,OH,39.8340845,-84.25421949999999,OK,45415
+45416,Trotwood,postal_code,Montgomery County,OH,39.803823,-84.26475219999999,OK,45416
+45417,Dayton,postal_code,Montgomery County,OH,39.7383713,-84.2910759,OK,45417
+45419,Dayton,postal_code,Montgomery County,OH,39.7169388,-84.16989079999999,OK,45419
+45420,Dayton,postal_code,Montgomery County,OH,39.7250886,-84.12768179999999,OK,45420
+45422,Dayton,postal_code,Montgomery County,OH,39.7494525,-84.19724479999999,OK,45422
+45423,Dayton,postal_code,Montgomery County,OH,39.7607106,-84.1913136,OK,45423
+45424,Huber Heights,postal_code,None,OH,39.853124,-84.1224036,OK,45424
+45426,Trotwood,postal_code,Montgomery County,OH,39.7912709,-84.3226488,OK,45426
+45428,Dayton,postal_code,Montgomery County,OH,39.7446945,-84.2565237,OK,45428
+45429,Centerville,postal_code,Montgomery County,OH,39.6801641,-84.15406589999999,OK,45429
+45430,Beavercreek,postal_code,Greene County,OH,39.7126697,-84.0854432,OK,45430
+45431,Dayton,postal_code,None,OH,39.764031,-84.0854432,OK,45431
+45432,Dayton,postal_code,None,OH,39.7434917,-84.0854432,OK,45432
+45433,WPAFB,postal_code,Greene County,OH,39.8137298,-84.05374479999999,OK,45433
+45434,Dayton,postal_code,Greene County,OH,39.7202426,-84.03260329999999,OK,45434
+45435,Dayton,postal_code,Montgomery County,OH,39.6710014,-84.1876983,OK,45435
+45437,Dayton,postal_code,Montgomery County,OH,39.7694793,-84.122777,OK,45437
+45439,Dayton,postal_code,Montgomery County,OH,39.703893,-84.21734029999999,OK,45439
+45440,Centerville,postal_code,None,OH,39.6720868,-84.0960056,OK,45440
+45441,Dayton,postal_code,Montgomery County,OH,39.65,-84.17,OK,45441
+45448,Dayton,postal_code,Montgomery County,OH,39.6473916,-84.2243787,OK,45448
+45449,Dayton,postal_code,Montgomery County,OH,39.6692118,-84.24368489999999,OK,45449
+45458,SUGARCRK Township,postal_code,None,OH,39.5978465,-84.15406589999999,OK,45458
+45459,Centerville,postal_code,Montgomery County,OH,39.6400784,-84.17516479999999,OK,45459
+45469,Dayton,postal_code,Montgomery County,OH,39.7395406,-84.1787904,OK,45469
+45470,Dayton,postal_code,Montgomery County,OH,39.64629170000001,-84.22876649999999,OK,45470
+45475,Dayton,postal_code,Montgomery County,OH,39.64,-84.22,OK,45475
+45479,Dayton,postal_code,Montgomery County,OH,39.7321906,-84.1923022,OK,45479
+45481,Dayton,postal_code,Greene County,OH,39.7201241,-84.1022679,OK,45481
+45482,Dayton,postal_code,Montgomery County,OH,39.76,-84.17999999999999,OK,45482
+45490,Dayton,postal_code,Montgomery County,OH,39.898279,-84.2290242,OK,45490
+45501,Springfield,postal_code,Clark County,OH,39.9260873,-83.8078525,OK,45501
+45502,Springfield,postal_code,None,OH,39.8354706,-83.7836403,OK,45502
+45503,Springfield,postal_code,Clark County,OH,39.9475712,-83.7730237,OK,45503
+45504,Springfield,postal_code,Clark County,OH,39.9509734,-83.8366958,OK,45504
+45505,Springfield,postal_code,Clark County,OH,39.9066245,-83.7730237,OK,45505
+45506,Springfield,postal_code,Clark County,OH,39.8895417,-83.8366958,OK,45506
+45601,Chillicothe,postal_code,None,OH,39.3145284,-82.95015579999999,OK,45601
+45612,Bainbridge,postal_code,None,OH,39.2326802,-83.3148018,OK,45612
+45613,Beaver,postal_code,None,OH,39.080345,-82.8425216,OK,45613
+45614,Bidwell,postal_code,Gallia County,OH,38.8812788,-82.32348429999999,OK,45614
+45616,Blue Creek,postal_code,None,OH,38.8199214,-83.357567,OK,45616
+45617,Bourneville,postal_code,Ross County,OH,39.2796925,-83.15618979999999,OK,45617
+45618,Cherry Fork,postal_code,Adams County,OH,38.8856389,-83.6142225,OK,45618
+45619,Chesapeake,postal_code,Lawrence County,OH,38.4617143,-82.4427769,OK,45619
+45620,Cheshire,postal_code,None,OH,38.9527446,-82.1496049,OK,45620
+45621,Coalton,postal_code,Jackson County,OH,39.1141127,-82.6108606,OK,45621
+45622,Creola,postal_code,None,OH,39.3783264,-82.48610529999999,OK,45622
+45623,Crown City,postal_code,None,OH,38.6731717,-82.32348429999999,OK,45623
+45624,Cynthiana,postal_code,Pike County,OH,39.1735134,-83.3492167,OK,45624
+45628,Frankfort,postal_code,Ross County,OH,39.3905459,-83.1863358,OK,45628
+45629,FRANKLN FRNCE,postal_code,Scioto County,OH,38.6520109,-82.8101975,OK,45629
+45630,Friendship,postal_code,Scioto County,OH,38.6966023,-83.106586,OK,45630
+45631,Gallipolis,postal_code,Gallia County,OH,38.8726188,-82.1931149,OK,45631
+45633,Hallsville,postal_code,Ross County,OH,39.44,-82.83,OK,45633
+45634,Hamden,postal_code,Vinton County,OH,39.1828231,-82.49693309999999,OK,45634
+45636,Haverhill,postal_code,Scioto County,OH,38.5889891,-82.8250147,OK,45636
+45638,Ironton,postal_code,None,OH,38.5702309,-82.669947,OK,45638
+45640,Jackson,postal_code,Jackson County,OH,39.0502377,-82.6915429,OK,45640
+45642,Jasper,postal_code,Pike County,OH,39.0500593,-83.05140779999999,OK,45642
+45643,Kerr,postal_code,Gallia County,OH,38.8743788,-82.260876,OK,45643
+45644,Kingston,postal_code,None,OH,39.4523682,-82.8425216,OK,45644
+45645,Kitts Hill,postal_code,Lawrence County,OH,38.5620243,-82.5402275,OK,45645
+45646,Latham,postal_code,Pike County,OH,39.0791318,-83.3468784,OK,45646
+45647,Londonderry,postal_code,None,OH,39.2846349,-82.79941939999999,OK,45647
+45648,Lucasville,postal_code,None,OH,38.9247362,-83.01465259999999,OK,45648
+45650,Lynx,postal_code,Adams County,OH,38.7456972,-83.4269996,OK,45650
+45651,Allensville,postal_code,Vinton County,OH,39.2655094,-82.49693309999999,OK,45651
+45652,McDermott,postal_code,Scioto County,OH,38.8356137,-83.0898194,OK,45652
+45653,Minford,postal_code,Scioto County,OH,38.8824565,-82.8317486,OK,45653
+45654,New Plymouth,postal_code,None,OH,39.3808621,-82.36688699999999,OK,45654
+45656,Oak Hill,postal_code,None,OH,38.8787014,-82.605118,OK,45656
+45657,Otway,postal_code,None,OH,38.8541878,-83.2291862,OK,45657
+45658,Patriot,postal_code,Gallia County,OH,38.7621719,-82.4102628,OK,45658
+45659,Pedro,postal_code,Lawrence County,OH,38.6927156,-82.6267345,OK,45659
+45660,Peebles,postal_code,None,OH,39.008313,-83.3789389,OK,45660
+45661,Idaho,postal_code,Pike County,OH,39.0544378,-83.1005505,OK,45661
+45662,None,postal_code,Scioto County,OH,38.79473240000001,-82.92864279999999,OK,45662
+45663,Portsmouth,postal_code,Scioto County,OH,38.7633546,-83.1005505,OK,45663
+45669,Athalia,postal_code,Lawrence County,OH,38.5090501,-82.36688699999999,OK,45669
+45671,Rarden,postal_code,None,OH,38.9814231,-83.2720082,OK,45671
+45672,Ray,postal_code,None,OH,39.2352128,-82.669947,OK,45672
+45673,Richmond Dale,postal_code,Ross County,OH,39.20172669999999,-82.81693299999999,OK,45673
+45674,Rio Grande,postal_code,Gallia County,OH,38.8834518,-82.3763778,OK,45674
+45675,Rock Camp,postal_code,Lawrence County,OH,38.5293583,-82.5459541,OK,45675
+45677,SCIOTO FURNCE,postal_code,Scioto County,OH,38.7984879,-82.7647708,OK,45677
+45678,Scottown,postal_code,None,OH,38.5925868,-82.36688699999999,OK,45678
+45679,Seaman,postal_code,None,OH,38.9567187,-83.57096399999999,OK,45679
+45680,South Point,postal_code,Lawrence County,OH,38.4686596,-82.5510469,OK,45680
+45681,South Salem,postal_code,Ross County,OH,39.3007345,-83.2398943,OK,45681
+45682,South Webster,postal_code,None,OH,38.8231069,-82.713132,OK,45682
+45683,Stockdale,postal_code,Pike County,OH,38.96,-82.86,OK,45683
+45684,None,postal_code,None,OH,38.6432345,-83.1863358,OK,45684
+45685,None,postal_code,None,OH,38.942403,-82.4644445,OK,45685
+45686,Vinton,postal_code,None,OH,39.0086757,-82.36688699999999,OK,45686
+45687,Wakefield,postal_code,Pike County,OH,38.9705777,-83.01935379999999,OK,45687
+45688,Waterloo,postal_code,None,OH,38.7289006,-82.5402275,OK,45688
+45690,Waverly,postal_code,None,OH,39.132242,-83.01465259999999,OK,45690
+45692,Wellston,postal_code,None,OH,39.1469886,-82.5834947,OK,45692
+45693,West Union,postal_code,Adams County,OH,38.7878376,-83.528342,OK,45693
+45694,Wheelersburg,postal_code,None,OH,38.7451748,-82.79941939999999,OK,45694
+45695,Radcliff,postal_code,Vinton County,OH,39.1743618,-82.36688699999999,OK,45695
+45696,Willow Wood,postal_code,Lawrence County,OH,38.5884833,-82.4644445,OK,45696
+45697,Winchester,postal_code,None,OH,38.9307641,-83.666758,OK,45697
+45698,Zaleski,postal_code,Vinton County,OH,39.2858382,-82.3926446,OK,45698
+45699,Lucasville,postal_code,Scioto County,OH,38.88,-83.0,OK,45699
+45701,Athens,postal_code,Athens County,OH,39.32218390000001,-82.10606829999999,OK,45701
+45710,Albany,postal_code,None,OH,39.2070892,-82.2365981,OK,45710
+45711,Amesville,postal_code,None,OH,39.4242932,-81.9425701,OK,45711
+45712,Barlow,postal_code,Washington County,OH,39.3973409,-81.6650299,OK,45712
+45713,Bartlett,postal_code,Washington County,OH,39.4155724,-81.80827169999999,OK,45713
+45714,Belpre,postal_code,Washington County,OH,39.3297421,-81.6254283,OK,45714
+45715,Beverly,postal_code,None,OH,39.6081358,-81.63638689999999,OK,45715
+45716,Buchtel,postal_code,Athens County,OH,39.4541044,-82.1903963,OK,45716
+45717,Carbondale,postal_code,Athens County,OH,39.38,-82.27,OK,45717
+45719,Chauncey,postal_code,Athens County,OH,39.4019776,-82.12375829999999,OK,45719
+45720,Chester,postal_code,Meigs County,OH,39.0872942,-81.92261839999999,OK,45720
+45721,Coal Run,postal_code,Washington County,OH,39.5661291,-81.583291,OK,45721
+45723,Coolville,postal_code,None,OH,39.2184633,-81.8005724,OK,45723
+45724,Cutler,postal_code,Washington County,OH,39.3834564,-81.8005724,OK,45724
+45727,Dexter City,postal_code,Noble County,OH,39.6568423,-81.46085599999999,OK,45727
+45729,Fleming,postal_code,Washington County,OH,39.4216213,-81.614468,OK,45729
+45732,Glouster,postal_code,None,OH,39.5251436,-82.06250519999999,OK,45732
+45734,Graysville,postal_code,Monroe County,OH,39.62597110000001,-81.18577359999999,OK,45734
+45735,Guysville,postal_code,None,OH,39.2578536,-81.9207423,OK,45735
+45739,Hockingport,postal_code,Athens County,OH,39.192548,-81.74451669999999,OK,45739
+45740,Jacksonville,postal_code,Athens County,OH,39.4744312,-82.08224799999999,OK,45740
+45741,Dexter,postal_code,Meigs County,OH,39.0829536,-82.2365981,OK,45741
+45742,LITTLE HOCKNG,postal_code,None,OH,39.2852678,-81.7239979,OK,45742
+45743,Long Bottom,postal_code,Meigs County,OH,39.0561128,-81.84429340000001,OK,45743
+45744,Lowell,postal_code,None,OH,39.5259033,-81.49379929999999,OK,45744
+45745,Lower Salem,postal_code,None,OH,39.6359618,-81.3179364,OK,45745
+45746,Macksburg,postal_code,None,OH,39.6142158,-81.4388858,OK,45746
+45750,Marietta,postal_code,Washington County,OH,39.4404583,-81.4498717,OK,45750
+45760,Middleport,postal_code,None,OH,39.0231177,-82.11695499999999,OK,45760
+45761,Millfield,postal_code,Athens County,OH,39.43479,-82.09518,OK,45761
+45764,Nelsonville,postal_code,None,OH,39.4546308,-82.2365981,OK,45764
+45766,NEW MARSHFLD,postal_code,None,OH,39.302205,-82.269193,OK,45766
+45767,Rinard Mills,postal_code,None,OH,39.5782129,-81.0975397,OK,45767
+45768,Newport,postal_code,Washington County,OH,39.4145685,-81.2408689,OK,45768
+45769,Pomeroy,postal_code,Meigs County,OH,39.1126091,-82.06250519999999,OK,45769
+45770,Portland,postal_code,Meigs County,OH,39.0004845,-81.78963809999999,OK,45770
+45771,Racine,postal_code,Meigs County,OH,38.9762914,-81.8879884,OK,45771
+45772,Reedsville,postal_code,Meigs County,OH,39.1200722,-81.7472287,OK,45772
+45773,Reno,postal_code,Washington County,OH,39.4984483,-81.26289609999999,OK,45773
+45775,Rutland,postal_code,Meigs County,OH,39.0771169,-82.1496049,OK,45775
+45776,Shade,postal_code,None,OH,39.182761,-82.0298154,OK,45776
+45777,Sharpsburg,postal_code,Athens County,OH,39.44,-81.91,OK,45777
+45778,Stewart,postal_code,Athens County,OH,39.348391,-81.8879884,OK,45778
+45779,Syracuse,postal_code,Meigs County,OH,38.9953192,-81.9708682,OK,45779
+45780,The Plains,postal_code,Athens County,OH,39.3676641,-82.1305609,OK,45780
+45782,Trimble,postal_code,Athens County,OH,39.4831538,-82.07816369999999,OK,45782
+45783,Tuppers Plains,postal_code,Meigs County,OH,39.174113,-81.8446349,OK,45783
+45784,Vincent,postal_code,Washington County,OH,39.3851846,-81.68020539999999,OK,45784
+45786,Waterford,postal_code,Washington County,OH,39.4943962,-81.6254283,OK,45786
+45787,Watertown,postal_code,Washington County,OH,39.46709999999999,-81.63311999999999,OK,45787
+45788,Whipple,postal_code,Washington County,OH,39.5066958,-81.3729372,OK,45788
+45789,Wingett Run,postal_code,None,OH,39.52203830000001,-81.2353612,OK,45789
+45801,Lima,postal_code,Allen County,OH,40.786903,-84.0801613,OK,45801
+45802,Lima,postal_code,Allen County,OH,40.7111378,-84.16659419999999,OK,45802
+45804,Lima,postal_code,Allen County,OH,40.7145838,-84.0484601,OK,45804
+45805,Lima,postal_code,Allen County,OH,40.7199785,-84.15406589999999,OK,45805
+45806,Fort Shawnee,postal_code,None,OH,40.6795447,-84.15406589999999,OK,45806
+45807,Lima,postal_code,Allen County,OH,40.8018277,-84.17516479999999,OK,45807
+45808,Beaverdam,postal_code,Allen County,OH,40.8329228,-83.9704575,OK,45808
+45809,Gomer,postal_code,Allen County,OH,40.8498721,-84.1778016,OK,45809
+45810,Ada,postal_code,None,OH,40.7713127,-83.7836403,OK,45810
+45812,Alger,postal_code,Hardin County,OH,40.692802,-83.8260884,OK,45812
+45813,Antwerp,postal_code,None,OH,41.17973629999999,-84.7106567,OK,45813
+45814,Arlington,postal_code,Hancock County,OH,40.8936473,-83.624201,OK,45814
+45815,Belmore,postal_code,Putnam County,OH,41.1,-83.97999999999999,OK,45815
+45816,Benton Ridge,postal_code,Hancock County,OH,41.0030001,-83.7962451,OK,45816
+45817,Bluffton,postal_code,None,OH,40.8587757,-83.91089680000002,OK,45817
+45819,Lima,postal_code,Auglaize County,OH,40.6229267,-84.2608027,OK,45819
+45820,Cairo,postal_code,Allen County,OH,40.8306467,-84.084783,OK,45820
+45821,Cecil,postal_code,None,OH,41.2235399,-84.5746243,OK,45821
+45822,Celina,postal_code,Mercer County,OH,40.54767400000001,-84.56414699999999,OK,45822
+45826,Celina,postal_code,Mercer County,OH,40.4362253,-84.4943593,OK,45826
+45827,Cloverdale,postal_code,None,OH,40.999029,-84.2910759,OK,45827
+45828,Coldwater,postal_code,Mercer County,OH,40.4820072,-84.6792931,OK,45828
+45830,Columbus Grove,postal_code,None,OH,40.9078834,-84.0801613,OK,45830
+45831,Continental,postal_code,None,OH,41.1174954,-84.2489525,OK,45831
+45832,Convoy,postal_code,None,OH,40.9385068,-84.7106567,OK,45832
+45833,Delphos,postal_code,None,OH,40.8399576,-84.3331694,OK,45833
+45835,Dola,postal_code,Hardin County,OH,40.7773736,-83.7092861,OK,45835
+45836,Dunkirk,postal_code,None,OH,40.7940524,-83.64548309999999,OK,45836
+45837,Dupont,postal_code,Putnam County,OH,41.0553688,-84.29962850000001,OK,45837
+45838,Elgin,postal_code,Van Wert County,OH,40.7426356,-84.4755105,OK,45838
+45839,Findlay,postal_code,Hancock County,OH,41.0391052,-83.65249419999999,OK,45839
+45840,Findlay,postal_code,Hancock County,OH,41.0462307,-83.6561215,OK,45840
+45841,Jenera,postal_code,Hancock County,OH,40.8793379,-83.7305392,OK,45841
+45843,Forest,postal_code,None,OH,40.7976247,-83.528342,OK,45843
+45844,Fort Jennings,postal_code,None,OH,40.918513,-84.2910759,OK,45844
+45845,Fort Loramie,postal_code,None,OH,40.3258424,-84.38574419999999,OK,45845
+45846,Fort Recovery,postal_code,None,OH,40.4142389,-84.75244819999999,OK,45846
+45848,Glandorf,postal_code,Putnam County,OH,41.0331744,-84.0834625,OK,45848
+45849,Grover Hill,postal_code,None,OH,41.0167832,-84.44877199999999,OK,45849
+45850,Harrod,postal_code,None,OH,40.6973059,-83.91089680000002,OK,45850
+45851,Haviland,postal_code,Paulding County,OH,41.0438635,-84.59557319999999,OK,45851
+45853,Kalida,postal_code,Putnam County,OH,40.9813931,-84.2021869,OK,45853
+45854,Lafayette,postal_code,Allen County,OH,40.758667,-83.94928709999999,OK,45854
+45855,Latty,postal_code,Paulding County,OH,41.0864929,-84.580517,OK,45855
+45856,Leipsic,postal_code,None,OH,41.1045738,-83.99558789999999,OK,45856
+45858,McComb,postal_code,None,OH,41.09561650000001,-83.8260884,OK,45858
+45859,McGuffey,postal_code,Hardin County,OH,40.6918588,-83.7849672,OK,45859
+45860,Maria Stein,postal_code,Mercer County,OH,40.4025767,-84.5012435,OK,45860
+45861,Melrose,postal_code,Paulding County,OH,41.0912277,-84.41660999999999,OK,45861
+45862,Mendon,postal_code,None,OH,40.6864779,-84.5012435,OK,45862
+45863,Middle Point,postal_code,Van Wert County,OH,40.8864096,-84.4592701,OK,45863
+45864,Miller City,postal_code,Putnam County,OH,41.1050406,-84.1263623,OK,45864
+45865,Minster,postal_code,None,OH,40.394468,-84.3331694,OK,45865
+45866,Montezuma,postal_code,Mercer County,OH,40.4893916,-84.5517028,OK,45866
+45867,Mount Blanchard,postal_code,None,OH,40.9090363,-83.53900019999999,OK,45867
+45868,Mount Cory,postal_code,None,OH,40.9667124,-83.8579053,OK,45868
+45869,New Bremen,postal_code,None,OH,40.4488452,-84.406761,OK,45869
+45870,New Hampshire,postal_code,Auglaize County,OH,40.55627339999999,-83.9529263,OK,45870
+45871,New Knoxville,postal_code,None,OH,40.5046089,-84.3016021,OK,45871
+45872,Bairdstown,postal_code,None,OH,41.19840689999999,-83.6880257,OK,45872
+45873,Oakwood,postal_code,None,OH,41.1638571,-84.375233,OK,45873
+45874,Ohio City,postal_code,Van Wert County,OH,40.7751952,-84.6688348,OK,45874
+45875,Ottawa,postal_code,Putnam County,OH,41.0264299,-84.0378894,OK,45875
+45876,Ottoville,postal_code,Putnam County,OH,40.9319873,-84.3390596,OK,45876
+45877,Pandora,postal_code,None,OH,40.9415696,-83.9532571,OK,45877
+45879,Paulding,postal_code,Paulding County,OH,41.1317987,-84.54318669999999,OK,45879
+45880,Payne,postal_code,Paulding County,OH,41.0611586,-84.75244819999999,OK,45880
+45881,Rawson,postal_code,Hancock County,OH,40.9420398,-83.7730237,OK,45881
+45882,Rockford,postal_code,None,OH,40.69433129999999,-84.6688348,OK,45882
+45883,Saint Henry,postal_code,Mercer County,OH,40.4084826,-84.6269824,OK,45883
+45884,Saint Johns,postal_code,Auglaize County,OH,40.5553322,-84.0846179,OK,45884
+45885,Saint Marys,postal_code,None,OH,40.5396595,-84.3962535,OK,45885
+45886,Scott,postal_code,None,OH,40.989281,-84.61128,OK,45886
+45887,Spencerville,postal_code,None,OH,40.7208553,-84.375233,OK,45887
+45888,Uniopolis,postal_code,Auglaize County,OH,40.60209649999999,-84.0876713,OK,45888
+45889,Van Buren,postal_code,Hancock County,OH,41.1536362,-83.6029116,OK,45889
+45890,Vanlue,postal_code,Hancock County,OH,40.9622652,-83.5016887,OK,45890
+45891,Van Wert,postal_code,Van Wert County,OH,40.871234,-84.56414699999999,OK,45891
+45893,Vaughnsville,postal_code,Putnam County,OH,40.8825869,-84.14582209999999,OK,45893
+45894,Venedocia,postal_code,Van Wert County,OH,40.7653325,-84.4592701,OK,45894
+45895,Wapakoneta,postal_code,None,OH,40.5678568,-84.1935831,OK,45895
+45896,Waynesfield,postal_code,None,OH,40.6186268,-83.9532571,OK,45896
+45897,Williamstown,postal_code,Hancock County,OH,40.8402988,-83.66144000000001,OK,45897
+45898,Willshire,postal_code,None,OH,40.7491862,-84.76289129999999,OK,45898
+45899,Wren,postal_code,Van Wert County,OH,40.8000455,-84.7775736,OK,45899
+45999,Cincinnati,postal_code,Kenton County,KY,39.07,-84.53,OK,45999
