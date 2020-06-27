@@ -1,0 +1,18 @@
+Notes by Mike Gleixner
+1) APIs Referenced
+a. zip-codes.com – To get a list of the zip codes in the state of Ohio.
+b. maps.googleapis.com – To get zip data (County, City Name, State, Latitude, Longitude, Zip Code Check)
+c.  ziptasticapi.com – to get a second check of the city name.
+d. Zip-codes.com(again) – to get a third check on the city name and a second check of the county name.
+e. Api.census.gov – To get census business data (GEO_ID, EMP (Employees in the Zip Code), ESTAB (Business Establishments in the Zip), PAYANN (Annual Payroll by the Zip Code).
+
+2) Data Gathering Issues
+a. Getting FREE Data by Zip Codes was challenging.
+b. Google Maps API data was not consistent for cities in Cuyahoga County. Three know zip codes for Cuyahoga where not found in Google Maps API as correct data. Also, the api did not have the correct city names for many of the zips. I had to go to other APIs to get correct city names.
+c. Census Data database was inconsistent. Fields between the years were removed and other we added making it challenging trying to consistent feed of data needed to defend or support hypotheses.
+d. Census Data was mostly clean but there was some empty data for some of the reported zip codes that were removed in the data cleansing process.
+
+3) Conclusion
+a. The number of businesses in Cuyahoga County appear to have not to be impacted by Lebron playing or not playing basketball in Cleveland.
+b. The number of employees in Cuyahoga County appear to have not to be impacted by Lebron playing or not playing basketball in Cleveland.
+c. The Payroll dollars for Cuyahoga County appears that they could have been impacted by Lebron playing basketball in Cleveland, but hypothesis testing shown that it did not.
